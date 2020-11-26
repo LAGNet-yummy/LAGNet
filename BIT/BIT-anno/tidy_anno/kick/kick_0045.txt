@@ -1,0 +1,318 @@
+frame: 1    box_num: 5
+1 132 68 177 175 no_action
+2 202 55 248 185 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 2    box_num: 5
+1 132 68 177 175 no_action
+2 202 55 248 185 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 3    box_num: 5
+1 132 68 179 174 no_action
+2 201 55 248 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 4    box_num: 5
+1 133 68 181 174 no_action
+2 201 55 248 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 5    box_num: 5
+1 133 68 183 174 no_action
+2 201 55 249 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 6    box_num: 5
+1 134 68 186 174 no_action
+2 201 56 249 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 7    box_num: 5
+1 135 68 188 174 no_action
+2 201 56 250 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 8    box_num: 5
+1 135 68 190 174 no_action
+2 201 56 250 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 9    box_num: 5
+1 136 68 193 174 no_action
+2 201 57 250 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 10    box_num: 5
+1 137 68 195 174 no_action
+2 201 57 251 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 11    box_num: 5
+1 137 68 197 173 no_action
+2 200 57 251 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 12    box_num: 5
+1 138 68 199 173 no_action
+2 200 57 252 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 13    box_num: 5
+1 139 68 202 173 no_action
+2 200 58 252 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 14    box_num: 5
+1 139 68 204 173 no_action
+2 200 58 252 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 15    box_num: 5
+1 140 68 206 173 no_action
+2 200 58 253 184 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 16    box_num: 5
+1 141 68 209 173 kick
+2 200 59 253 184 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 17    box_num: 5
+1 141 68 211 173 kick
+2 200 59 254 184 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 18    box_num: 5
+1 142 68 213 173 kick
+2 200 59 254 184 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 19    box_num: 5
+1 143 68 216 173 kick
+2 200 60 255 184 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 20    box_num: 5
+1 141 66 218 171 kick
+2 203 60 260 183 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 21    box_num: 5
+1 139 65 220 169 kick
+2 207 60 265 183 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 22    box_num: 5
+1 137 63 222 167 kick
+2 210 60 270 183 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 23    box_num: 5
+1 135 62 225 166 kick
+2 214 60 275 183 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 24    box_num: 5
+1 134 63 224 167 kick
+2 217 60 278 183 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 25    box_num: 5
+1 134 65 224 169 kick
+2 221 61 282 184 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 26    box_num: 5
+1 134 67 224 171 kick
+2 225 62 286 185 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 27    box_num: 5
+1 134 68 224 172 kick
+2 229 62 290 185 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 28    box_num: 5
+1 134 70 224 174 kick
+2 233 63 294 186 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 29    box_num: 5
+1 134 72 224 176 kick
+2 237 64 298 187 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 30    box_num: 5
+1 134 72 219 176 kick
+2 239 64 300 188 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 31    box_num: 5
+1 134 72 215 176 kick
+2 241 64 303 189 be_kicked
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 32    box_num: 5
+1 134 73 210 176 no_action
+2 243 64 306 190 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 33    box_num: 5
+1 134 73 206 177 no_action
+2 245 65 309 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 34    box_num: 5
+1 134 74 201 177 no_action
+2 247 65 312 192 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 35    box_num: 5
+1 134 74 197 177 no_action
+2 249 65 315 193 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 36    box_num: 5
+1 134 75 193 178 no_action
+2 251 66 318 194 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 37    box_num: 5
+1 132 74 191 177 no_action
+2 258 64 318 193 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 38    box_num: 5
+1 131 74 190 177 no_action
+2 266 63 318 193 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 39    box_num: 5
+1 129 74 188 177 no_action
+2 274 62 318 192 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 40    box_num: 5
+1 128 73 187 176 no_action
+2 281 60 318 192 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 41    box_num: 5
+1 126 73 185 176 no_action
+2 289 59 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 42    box_num: 5
+1 125 73 184 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 43    box_num: 5
+1 125 72 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 44    box_num: 5
+1 125 71 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 45    box_num: 5
+1 125 70 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 46    box_num: 5
+1 125 69 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 47    box_num: 5
+1 125 69 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 48    box_num: 5
+1 125 68 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 49    box_num: 5
+1 125 67 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 50    box_num: 5
+1 125 66 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 51    box_num: 5
+1 125 65 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 52    box_num: 5
+1 125 65 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action
+frame: 53    box_num: 5
+1 125 65 183 176 no_action
+2 297 58 318 191 no_action
+3 43 71 79 164 no_action
+4 78 66 112 171 no_action
+5 99 67 134 173 no_action

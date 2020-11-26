@@ -1,0 +1,120 @@
+frame: 1    box_num: 3
+1 140 90 173 191 no_action
+2 194 92 224 196 no_action
+3 166 102 189 136 no_action
+frame: 2    box_num: 3
+1 140 90 173 190 no_action
+2 193 92 224 195 no_action
+3 166 102 188 136 no_action
+frame: 3    box_num: 3
+1 140 90 174 190 no_action
+2 193 92 224 195 no_action
+3 166 102 188 136 no_action
+frame: 4    box_num: 3
+1 140 90 174 190 no_action
+2 193 92 224 195 no_action
+3 166 102 188 136 no_action
+frame: 5    box_num: 3
+1 140 90 175 190 no_action
+2 193 92 224 195 no_action
+3 166 102 188 137 no_action
+frame: 6    box_num: 3
+1 140 90 176 190 no_action
+2 192 92 224 195 no_action
+3 166 102 187 137 no_action
+frame: 7    box_num: 3
+1 140 90 176 190 no_action
+2 192 92 224 195 no_action
+3 166 102 187 137 no_action
+frame: 8    box_num: 3
+1 140 90 177 190 no_action
+2 192 92 224 195 no_action
+3 166 102 187 137 no_action
+frame: 9    box_num: 3
+1 140 90 178 190 no_action
+2 192 92 224 195 no_action
+3 166 103 187 138 no_action
+frame: 10    box_num: 3
+1 140 90 180 189 no_action
+2 189 92 224 194 no_action
+3 166 103 187 138 no_action
+frame: 11    box_num: 3
+1 140 90 183 189 no_action
+2 187 92 225 194 no_action
+3 166 103 187 138 no_action
+frame: 12    box_num: 3
+1 140 90 186 189 highfive
+2 185 92 225 194 highfive
+3 166 103 187 138 no_action
+frame: 13    box_num: 3
+1 140 90 189 189 highfive
+2 183 92 226 194 highfive
+3 166 103 187 138 no_action
+frame: 14    box_num: 3
+1 141 91 192 189 highfive
+2 181 92 227 194 highfive
+3 166 103 187 138 no_action
+frame: 15    box_num: 3
+1 141 90 191 189 highfive
+2 181 90 226 194 highfive
+3 166 103 187 138 no_action
+frame: 16    box_num: 3
+1 141 89 191 189 highfive
+2 181 89 226 194 highfive
+3 166 103 187 138 no_action
+frame: 17    box_num: 3
+1 141 89 191 189 highfive
+2 181 88 226 194 highfive
+3 166 103 187 138 no_action
+frame: 18    box_num: 3
+1 141 88 191 189 highfive
+2 181 87 226 194 highfive
+3 166 103 187 138 no_action
+frame: 19    box_num: 3
+1 141 88 191 189 highfive
+2 181 86 226 194 highfive
+3 166 103 187 138 no_action
+frame: 20    box_num: 3
+1 141 87 191 189 highfive
+2 181 85 226 194 highfive
+3 166 103 187 138 no_action
+frame: 21    box_num: 3
+1 141 87 191 189 highfive
+2 181 84 226 194 highfive
+3 166 103 187 138 no_action
+frame: 22    box_num: 3
+1 141 86 190 189 highfive
+2 181 84 225 195 highfive
+3 166 103 187 138 no_action
+frame: 23    box_num: 3
+1 141 85 190 189 highfive
+2 181 84 224 196 highfive
+3 166 103 187 138 no_action
+frame: 24    box_num: 3
+1 141 84 190 189 highfive
+2 181 85 224 198 highfive
+3 166 103 187 138 no_action
+frame: 25    box_num: 3
+1 141 84 189 188 highfive
+2 182 85 223 197 highfive
+3 166 103 187 138 no_action
+frame: 26    box_num: 3
+1 141 84 189 188 highfive
+2 184 86 223 197 highfive
+3 166 103 187 138 no_action
+frame: 27    box_num: 3
+1 141 84 188 188 highfive
+2 186 87 223 197 highfive
+3 166 103 187 138 no_action
+frame: 28    box_num: 3
+1 141 84 188 188 no_action
+2 187 87 223 197 no_action
+3 166 103 187 138 no_action
+frame: 29    box_num: 3
+1 141 84 187 188 no_action
+2 189 88 223 197 no_action
+3 166 103 187 138 no_action
+frame: 30    box_num: 3
+1 141 84 187 188 no_action
+2 191 89 223 197 no_action
+3 166 103 187 138 no_action

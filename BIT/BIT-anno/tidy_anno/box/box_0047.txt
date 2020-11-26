@@ -1,0 +1,240 @@
+frame: 1    box_num: 3
+1 105 60 150 202 no_action
+2 175 76 207 197 no_action
+3 248 93 277 147 no_action
+frame: 2    box_num: 3
+1 105 60 150 202 no_action
+2 175 76 207 197 no_action
+3 248 93 277 147 no_action
+frame: 3    box_num: 3
+1 105 60 151 201 no_action
+2 175 76 207 196 no_action
+3 248 93 277 147 no_action
+frame: 4    box_num: 3
+1 105 60 152 201 no_action
+2 175 76 208 196 no_action
+3 248 93 277 147 no_action
+frame: 5    box_num: 3
+1 105 60 153 201 no_action
+2 175 76 208 196 no_action
+3 248 93 277 147 no_action
+frame: 6    box_num: 3
+1 105 60 154 201 no_action
+2 175 76 209 196 no_action
+3 248 93 277 147 no_action
+frame: 7    box_num: 3
+1 105 60 155 201 no_action
+2 175 76 209 196 no_action
+3 248 93 277 147 no_action
+frame: 8    box_num: 3
+1 105 60 156 201 no_action
+2 175 76 210 196 no_action
+3 248 93 277 147 no_action
+frame: 9    box_num: 3
+1 105 60 157 201 no_action
+2 175 76 210 196 no_action
+3 248 93 277 147 no_action
+frame: 10    box_num: 3
+1 105 60 158 201 no_action
+2 175 76 211 196 no_action
+3 248 93 277 147 no_action
+frame: 11    box_num: 3
+1 105 60 159 201 box
+2 175 76 212 196 be_boxed
+3 248 93 277 147 no_action
+frame: 12    box_num: 3
+1 105 60 161 201 box
+2 175 76 212 196 be_boxed
+3 248 93 277 147 no_action
+frame: 13    box_num: 3
+1 106 60 164 200 box
+2 175 76 213 196 be_boxed
+3 248 93 277 147 no_action
+frame: 14    box_num: 3
+1 108 60 168 200 box
+2 175 76 213 196 be_boxed
+3 248 93 277 147 no_action
+frame: 15    box_num: 3
+1 109 60 171 200 box
+2 175 76 214 196 be_boxed
+3 248 93 277 147 no_action
+frame: 16    box_num: 3
+1 111 60 175 200 box
+2 175 76 214 196 be_boxed
+3 248 93 277 147 no_action
+frame: 17    box_num: 3
+1 113 60 179 200 box
+2 175 76 215 196 be_boxed
+3 248 93 277 147 no_action
+frame: 18    box_num: 3
+1 113 60 177 199 box
+2 175 76 215 196 be_boxed
+3 248 93 277 147 no_action
+frame: 19    box_num: 3
+1 113 60 176 199 box
+2 175 76 216 196 be_boxed
+3 248 93 277 147 no_action
+frame: 20    box_num: 3
+1 113 60 174 199 box
+2 175 76 217 196 be_boxed
+3 248 93 277 147 no_action
+frame: 21    box_num: 3
+1 113 60 173 199 box
+2 175 76 217 196 be_boxed
+3 248 93 277 147 no_action
+frame: 22    box_num: 3
+1 113 60 171 199 box
+2 175 76 218 196 be_boxed
+3 248 93 277 147 no_action
+frame: 23    box_num: 3
+1 113 60 170 199 box
+2 175 76 218 196 be_boxed
+3 248 93 277 147 no_action
+frame: 24    box_num: 3
+1 113 60 168 199 box
+2 175 76 219 196 be_boxed
+3 248 93 277 147 no_action
+frame: 25    box_num: 3
+1 113 60 167 199 box
+2 175 76 219 196 be_boxed
+3 248 93 277 147 no_action
+frame: 26    box_num: 3
+1 113 60 165 199 box
+2 175 76 220 196 be_boxed
+3 248 93 277 147 no_action
+frame: 27    box_num: 3
+1 113 60 164 199 box
+2 175 76 220 196 be_boxed
+3 248 93 277 147 no_action
+frame: 28    box_num: 3
+1 113 60 162 199 box
+2 175 76 221 196 be_boxed
+3 248 93 277 147 no_action
+frame: 29    box_num: 3
+1 113 60 161 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 30    box_num: 3
+1 112 60 160 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 31    box_num: 3
+1 112 60 160 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 32    box_num: 3
+1 111 60 159 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 33    box_num: 3
+1 111 60 159 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 34    box_num: 3
+1 110 60 158 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 35    box_num: 3
+1 110 60 158 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 36    box_num: 3
+1 109 60 157 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 37    box_num: 3
+1 109 60 157 199 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 38    box_num: 3
+1 108 61 156 200 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 39    box_num: 3
+1 108 61 156 200 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 40    box_num: 3
+1 107 61 155 200 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 41    box_num: 3
+1 107 61 155 200 box
+2 175 76 222 196 be_boxed
+3 248 93 277 147 no_action
+frame: 42    box_num: 3
+1 106 61 154 200 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 43    box_num: 3
+1 106 61 154 200 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 44    box_num: 3
+1 105 61 153 200 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 45    box_num: 3
+1 105 61 153 200 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 46    box_num: 3
+1 104 61 152 200 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 47    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 48    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 49    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 50    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 51    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 52    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 53    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 54    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 55    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 56    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 57    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 58    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 59    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action
+frame: 60    box_num: 3
+1 104 62 152 201 no_action
+2 175 76 222 196 no_action
+3 248 93 277 147 no_action

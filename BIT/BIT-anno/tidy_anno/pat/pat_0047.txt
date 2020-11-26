@@ -1,0 +1,90 @@
+frame: 1    box_num: 2
+1 98 75 165 194 no_action
+2 51 77 99 239 no_action
+frame: 2    box_num: 2
+1 95 75 164 194 no_action
+2 51 77 98 238 no_action
+frame: 3    box_num: 2
+1 92 75 163 195 no_action
+2 51 77 98 238 no_action
+frame: 4    box_num: 2
+1 89 75 162 195 no_action
+2 51 77 98 238 no_action
+frame: 5    box_num: 2
+1 86 75 161 196 no_action
+2 51 77 98 238 no_action
+frame: 6    box_num: 2
+1 83 75 160 196 pat
+2 51 77 98 238 be_pated
+frame: 7    box_num: 2
+1 80 75 159 197 pat
+2 51 77 98 238 be_pated
+frame: 8    box_num: 2
+1 77 75 159 198 pat
+2 51 77 98 238 be_pated
+frame: 9    box_num: 2
+1 76 75 158 198 pat
+2 51 77 98 238 be_pated
+frame: 10    box_num: 2
+1 76 75 158 198 pat
+2 51 77 98 238 be_pated
+frame: 11    box_num: 2
+1 76 75 158 198 pat
+2 51 77 98 238 be_pated
+frame: 12    box_num: 2
+1 76 75 158 198 pat
+2 51 77 98 238 be_pated
+frame: 13    box_num: 2
+1 75 75 157 198 pat
+2 51 77 98 238 be_pated
+frame: 14    box_num: 2
+1 75 75 157 198 pat
+2 51 77 98 238 be_pated
+frame: 15    box_num: 2
+1 75 75 157 198 pat
+2 51 77 98 238 be_pated
+frame: 16    box_num: 2
+1 75 75 157 198 pat
+2 51 77 98 238 be_pated
+frame: 17    box_num: 2
+1 75 75 157 198 pat
+2 51 77 98 238 be_pated
+frame: 18    box_num: 2
+1 74 75 156 198 pat
+2 51 77 98 238 be_pated
+frame: 19    box_num: 2
+1 74 75 156 198 pat
+2 51 77 98 238 be_pated
+frame: 20    box_num: 2
+1 74 75 156 198 pat
+2 51 77 98 238 be_pated
+frame: 21    box_num: 2
+1 74 75 156 198 pat
+2 51 77 98 238 be_pated
+frame: 22    box_num: 2
+1 73 75 155 198 pat
+2 51 77 98 238 be_pated
+frame: 23    box_num: 2
+1 73 75 155 198 pat
+2 51 77 98 238 be_pated
+frame: 24    box_num: 2
+1 73 75 155 198 pat
+2 51 77 98 238 be_pated
+frame: 25    box_num: 2
+1 73 75 155 198 pat
+2 51 77 98 238 be_pated
+frame: 26    box_num: 2
+1 73 75 155 198 pat
+2 51 77 98 238 be_pated
+frame: 27    box_num: 2
+1 74 75 156 198 pat
+2 51 77 98 238 be_pated
+frame: 28    box_num: 2
+1 75 75 157 198 pat
+2 51 77 98 238 be_pated
+frame: 29    box_num: 2
+1 76 75 158 198 pat
+2 51 77 98 238 be_pated
+frame: 30    box_num: 2
+1 77 75 159 198 pat
+2 51 77 98 238 be_pated

@@ -1,0 +1,180 @@
+frame: 1    box_num: 2
+1 93 86 138 222 no_action
+2 127 78 179 184 no_action
+frame: 2    box_num: 2
+1 93 86 138 222 no_action
+2 127 78 179 184 no_action
+frame: 3    box_num: 2
+1 93 86 141 221 no_action
+2 127 77 179 183 no_action
+frame: 4    box_num: 2
+1 93 86 144 221 no_action
+2 127 77 179 183 no_action
+frame: 5    box_num: 2
+1 93 86 148 221 no_action
+2 127 77 179 183 no_action
+frame: 6    box_num: 2
+1 93 86 151 221 no_action
+2 127 76 179 182 no_action
+frame: 7    box_num: 2
+1 93 86 155 221 no_action
+2 127 76 179 182 no_action
+frame: 8    box_num: 2
+1 93 86 158 221 no_action
+2 127 76 179 182 no_action
+frame: 9    box_num: 2
+1 93 86 161 221 no_action
+2 127 75 179 181 no_action
+frame: 10    box_num: 2
+1 93 86 165 221 no_action
+2 127 75 179 181 no_action
+frame: 11    box_num: 2
+1 93 86 168 221 no_action
+2 127 75 179 181 no_action
+frame: 12    box_num: 2
+1 93 86 172 221 no_action
+2 127 75 179 181 no_action
+frame: 13    box_num: 2
+1 93 86 171 219 no_action
+2 126 75 179 180 no_action
+frame: 14    box_num: 2
+1 93 86 171 218 hug
+2 125 75 179 180 hug
+frame: 15    box_num: 2
+1 94 86 171 217 hug
+2 124 75 179 180 hug
+frame: 16    box_num: 2
+1 94 86 171 216 hug
+2 123 75 179 180 hug
+frame: 17    box_num: 2
+1 94 86 171 215 hug
+2 122 75 179 180 hug
+frame: 18    box_num: 2
+1 95 86 171 214 hug
+2 121 75 179 180 hug
+frame: 19    box_num: 2
+1 95 86 171 213 hug
+2 120 75 179 180 hug
+frame: 20    box_num: 2
+1 95 86 171 212 hug
+2 119 75 179 180 hug
+frame: 21    box_num: 2
+1 96 86 171 211 hug
+2 118 75 179 180 hug
+frame: 22    box_num: 2
+1 96 86 171 210 hug
+2 117 75 179 180 hug
+frame: 23    box_num: 2
+1 96 86 171 209 hug
+2 116 75 179 180 hug
+frame: 24    box_num: 2
+1 97 86 171 208 hug
+2 115 75 179 180 hug
+frame: 25    box_num: 2
+1 97 86 171 207 hug
+2 114 75 179 180 hug
+frame: 26    box_num: 2
+1 98 86 171 206 hug
+2 114 75 179 180 hug
+frame: 27    box_num: 2
+1 98 86 170 206 hug
+2 114 75 179 180 hug
+frame: 28    box_num: 2
+1 98 86 169 206 hug
+2 114 75 179 180 hug
+frame: 29    box_num: 2
+1 98 86 169 206 hug
+2 114 75 179 180 hug
+frame: 30    box_num: 2
+1 98 86 168 206 hug
+2 115 75 179 180 hug
+frame: 31    box_num: 2
+1 98 86 167 207 hug
+2 115 75 179 180 hug
+frame: 32    box_num: 2
+1 98 86 167 207 hug
+2 115 75 179 180 hug
+frame: 33    box_num: 2
+1 98 86 166 207 hug
+2 115 76 179 180 hug
+frame: 34    box_num: 2
+1 98 86 165 207 hug
+2 116 76 179 180 hug
+frame: 35    box_num: 2
+1 98 87 165 207 hug
+2 116 76 180 181 hug
+frame: 36    box_num: 2
+1 98 87 164 208 hug
+2 116 76 180 181 hug
+frame: 37    box_num: 2
+1 98 87 164 208 hug
+2 117 76 180 181 hug
+frame: 38    box_num: 2
+1 98 87 163 208 hug
+2 117 76 180 181 hug
+frame: 39    box_num: 2
+1 98 87 162 208 hug
+2 117 76 180 181 hug
+frame: 40    box_num: 2
+1 98 87 162 208 hug
+2 117 77 180 181 hug
+frame: 41    box_num: 2
+1 98 87 161 209 hug
+2 118 77 180 181 hug
+frame: 42    box_num: 2
+1 98 87 160 209 hug
+2 118 77 180 181 hug
+frame: 43    box_num: 2
+1 98 88 160 209 hug
+2 118 77 181 182 hug
+frame: 44    box_num: 2
+1 98 88 159 209 hug
+2 118 77 181 182 hug
+frame: 45    box_num: 2
+1 98 88 158 210 hug
+2 119 77 181 182 hug
+frame: 46    box_num: 2
+1 98 88 158 210 hug
+2 119 78 181 182 hug
+frame: 47    box_num: 2
+1 98 88 157 210 hug
+2 119 78 181 182 hug
+frame: 48    box_num: 2
+1 98 88 157 210 hug
+2 120 78 181 182 hug
+frame: 49    box_num: 2
+1 98 88 156 210 hug
+2 120 78 181 182 hug
+frame: 50    box_num: 2
+1 98 88 155 211 hug
+2 120 78 181 182 hug
+frame: 51    box_num: 2
+1 98 89 155 211 hug
+2 120 78 182 183 hug
+frame: 52    box_num: 2
+1 98 89 154 211 hug
+2 121 78 182 183 hug
+frame: 53    box_num: 2
+1 98 89 153 211 hug
+2 121 79 182 183 hug
+frame: 54    box_num: 2
+1 98 89 153 211 hug
+2 121 79 182 183 hug
+frame: 55    box_num: 2
+1 98 89 152 212 hug
+2 121 79 182 183 hug
+frame: 56    box_num: 2
+1 98 89 151 212 hug
+2 122 79 182 183 hug
+frame: 57    box_num: 2
+1 98 89 151 212 hug
+2 122 79 182 183 hug
+frame: 58    box_num: 2
+1 98 89 150 212 no_action
+2 122 79 182 183 no_action
+frame: 59    box_num: 2
+1 99 90 150 213 no_action
+2 123 80 183 184 no_action
+frame: 60    box_num: 2
+1 99 90 150 213 no_action
+2 123 80 183 184 no_action

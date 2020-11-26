@@ -1,0 +1,90 @@
+frame: 1    box_num: 2
+1 90 86 133 192 no_action
+2 146 86 189 198 no_action
+frame: 2    box_num: 2
+1 90 86 133 192 no_action
+2 146 86 189 198 no_action
+frame: 3    box_num: 2
+1 89 86 132 192 no_action
+2 141 86 188 197 no_action
+frame: 4    box_num: 2
+1 88 86 131 192 no_action
+2 137 86 187 197 no_action
+frame: 5    box_num: 2
+1 87 87 130 193 no_action
+2 132 86 187 197 no_action
+frame: 6    box_num: 2
+1 86 87 129 193 be_kicked
+2 128 86 186 197 kick
+frame: 7    box_num: 2
+1 86 88 129 194 be_kicked
+2 124 86 186 197 kick
+frame: 8    box_num: 2
+1 80 88 127 194 be_kicked
+2 122 86 186 196 kick
+frame: 9    box_num: 2
+1 75 88 126 195 be_kicked
+2 121 86 186 196 kick
+frame: 10    box_num: 2
+1 70 88 125 196 be_kicked
+2 120 86 186 196 kick
+frame: 11    box_num: 2
+1 65 89 124 197 be_kicked
+2 119 86 186 196 kick
+frame: 12    box_num: 2
+1 64 89 123 197 be_kicked
+2 120 86 186 195 kick
+frame: 13    box_num: 2
+1 63 90 122 198 be_kicked
+2 121 86 186 195 kick
+frame: 14    box_num: 2
+1 63 91 122 199 be_kicked
+2 122 86 186 195 kick
+frame: 15    box_num: 2
+1 61 91 120 199 be_kicked
+2 123 86 186 195 kick
+frame: 16    box_num: 2
+1 60 92 119 200 be_kicked
+2 124 86 186 195 kick
+frame: 17    box_num: 2
+1 59 92 118 200 be_kicked
+2 126 86 186 195 kick
+frame: 18    box_num: 2
+1 58 93 117 201 be_kicked
+2 127 86 186 195 kick
+frame: 19    box_num: 2
+1 60 92 118 200 be_kicked
+2 128 86 186 195 kick
+frame: 20    box_num: 2
+1 63 92 119 199 be_kicked
+2 129 86 186 195 kick
+frame: 21    box_num: 2
+1 65 91 120 199 be_kicked
+2 130 86 186 195 kick
+frame: 22    box_num: 2
+1 68 91 121 198 no_action
+2 131 86 186 195 no_action
+frame: 23    box_num: 2
+1 70 90 122 197 no_action
+2 133 86 186 195 no_action
+frame: 24    box_num: 2
+1 73 90 123 197 no_action
+2 131 86 186 195 no_action
+frame: 25    box_num: 2
+1 75 89 124 196 no_action
+2 130 86 186 195 no_action
+frame: 26    box_num: 2
+1 78 89 125 195 no_action
+2 128 86 186 196 no_action
+frame: 27    box_num: 2
+1 80 88 126 195 no_action
+2 127 86 186 196 no_action
+frame: 28    box_num: 2
+1 83 88 127 194 no_action
+2 125 86 186 196 no_action
+frame: 29    box_num: 2
+1 86 88 129 194 no_action
+2 124 86 186 197 no_action
+frame: 30    box_num: 2
+1 86 88 129 194 no_action
+2 124 86 186 197 no_action

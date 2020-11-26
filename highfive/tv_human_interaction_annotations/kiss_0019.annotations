@@ -1,0 +1,253 @@
+#num_frames: 90
+#frame:     0     #num_bbxs:     1
+0   324   45    220   no_interaction      frontal_left        
+#frame: 1         #num_bbxs: 1    
+0   321   45    220   no_interaction      frontal_left        
+#frame: 2         #num_bbxs: 1    
+0   316   45    220   no_interaction      frontal_left        
+#frame: 3         #num_bbxs: 1    
+0   310   46    220   no_interaction      frontal_left        
+#frame: 4         #num_bbxs: 1    
+0   302   47    220   no_interaction      frontal_left        
+#frame: 5         #num_bbxs: 1    
+0   293   47    220   no_interaction      frontal_left        
+#frame: 6         #num_bbxs: 1    
+0   285   47    220   no_interaction      frontal_left        
+#frame: 7         #num_bbxs: 1    
+0   276   48    220   no_interaction      frontal_left        
+#frame: 8         #num_bbxs: 1    
+0   265   48    220   no_interaction      frontal_left        
+#frame: 9         #num_bbxs: 1    
+0   255   49    220   no_interaction      frontal_left        
+#frame: 10        #num_bbxs: 1    
+0   249   48    220   no_interaction      frontal_left        
+#frame: 11        #num_bbxs: 1    
+0   244   48    220   no_interaction      frontal_left        
+#frame: 12        #num_bbxs: 1    
+0   240   47    220   no_interaction      frontal_left        
+#frame: 13        #num_bbxs: 1    
+0   236   47    220   no_interaction      frontal_left        
+#frame: 14        #num_bbxs: 1    
+0   232   46    220   no_interaction      frontal_left        
+#frame: 15        #num_bbxs: 1    
+0   228   45    220   no_interaction      frontal_left        
+#frame: 16        #num_bbxs: 1    
+0   225   45    220   no_interaction      frontal_left        
+#frame: 17        #num_bbxs: 1    
+0   223   46    220   no_interaction      frontal_left        
+#frame: 19        #num_bbxs: 2         #interacting: 1 - 2
+1   228   54    132   kiss                profile_right       
+2   301   92    104   kiss                profile_left        
+#frame: 20        #num_bbxs: 2         #interacting: 1 - 2
+1   229   54    132   kiss                profile_right       
+2   301   92    104   kiss                profile_left        
+#frame: 21        #num_bbxs: 2         #interacting: 1 - 2
+1   231   55    132   kiss                profile_right       
+2   301   92    104   kiss                profile_left        
+#frame: 22        #num_bbxs: 2         #interacting: 1 - 2
+1   235   55    132   kiss                profile_right       
+2   300   92    104   kiss                profile_left        
+#frame: 23        #num_bbxs: 2         #interacting: 1 - 2
+1   238   56    132   kiss                profile_right       
+2   300   92    104   kiss                profile_left        
+#frame: 24        #num_bbxs: 2         #interacting: 1 - 2
+1   239   56    132   kiss                profile_right       
+2   299   92    104   kiss                profile_left        
+#frame: 25        #num_bbxs: 2         #interacting: 1 - 2
+1   239   56    132   kiss                profile_right       
+2   298   93    104   kiss                profile_left        
+#frame: 26        #num_bbxs: 2         #interacting: 1 - 2
+1   239   56    132   kiss                profile_right       
+2   296   94    104   kiss                profile_left        
+#frame: 27        #num_bbxs: 2         #interacting: 1 - 2
+1   238   56    132   kiss                profile_right       
+2   294   94    104   kiss                profile_left        
+#frame: 28        #num_bbxs: 2         #interacting: 1 - 2
+1   238   55    132   kiss                profile_right       
+2   293   94    104   kiss                profile_left        
+#frame: 29        #num_bbxs: 2         #interacting: 1 - 2
+1   238   55    132   kiss                profile_right       
+2   292   94    104   kiss                profile_left        
+#frame: 30        #num_bbxs: 2         #interacting: 1 - 2
+1   237   55    132   kiss                profile_right       
+2   291   94    104   kiss                profile_left        
+#frame: 31        #num_bbxs: 2         #interacting: 1 - 2
+1   237   55    132   kiss                profile_right       
+2   290   96    104   kiss                profile_left        
+#frame: 32        #num_bbxs: 2         #interacting: 1 - 2
+1   236   56    132   kiss                profile_right       
+2   289   98    104   kiss                profile_left        
+#frame: 33        #num_bbxs: 2         #interacting: 1 - 2
+1   235   56    132   kiss                profile_right       
+2   288   100   104   kiss                profile_left        
+#frame: 34        #num_bbxs: 2         #interacting: 1 - 2
+1   234   56    132   kiss                frontal_right       
+2   287   101   104   kiss                profile_left        
+#frame: 35        #num_bbxs: 2         #interacting: 1 - 2
+1   233   57    132   kiss                frontal_right       
+2   287   102   104   kiss                profile_left        
+#frame: 36        #num_bbxs: 2         #interacting: 1 - 2
+1   233   57    132   kiss                frontal_right       
+2   287   102   104   kiss                profile_left        
+#frame: 37        #num_bbxs: 2         #interacting: 1 - 2
+1   232   57    132   kiss                frontal_right       
+2   287   102   104   kiss                profile_left        
+#frame: 38        #num_bbxs: 2         #interacting: 1 - 2
+1   231   57    132   kiss                frontal_right       
+2   285   102   104   kiss                backwards           
+#frame: 39        #num_bbxs: 2         #interacting: 1 - 2
+1   231   57    132   kiss                frontal_right       
+2   283   102   104   kiss                backwards           
+#frame: 40        #num_bbxs: 2         #interacting: 1 - 2
+1   230   57    132   kiss                frontal_right       
+2   281   102   104   kiss                backwards           
+#frame: 41        #num_bbxs: 2         #interacting: 1 - 2
+1   229   57    132   kiss                frontal_right       
+2   278   103   104   kiss                backwards           
+#frame: 42        #num_bbxs: 2         #interacting: 1 - 2
+1   227   56    132   kiss                frontal_right       
+2   276   104   104   kiss                backwards           
+#frame: 43        #num_bbxs: 2         #interacting: 1 - 2
+1   224   54    132   kiss                frontal_right       
+2   273   104   104   kiss                backwards           
+#frame: 44        #num_bbxs: 2         #interacting: 1 - 2
+1   220   54    132   kiss                frontal_right       
+2   271   105   104   kiss                backwards           
+#frame: 45        #num_bbxs: 2         #interacting: 1 - 2
+1   216   54    132   kiss                frontal_right       
+2   268   105   104   kiss                backwards           
+#frame: 46        #num_bbxs: 2         #interacting: 1 - 2
+1   213   53    132   kiss                frontal_right       
+2   267   105   104   kiss                backwards           
+#frame: 47        #num_bbxs: 2         #interacting: 1 - 2
+1   210   51    132   kiss                frontal_right       
+2   265   104   104   kiss                backwards           
+#frame: 48        #num_bbxs: 2         #interacting: 1 - 2
+1   209   50    132   kiss                frontal_right       
+2   264   104   104   kiss                backwards           
+#frame: 49        #num_bbxs: 2         #interacting: 1 - 2
+1   208   49    132   kiss                frontal_right       
+2   262   104   104   kiss                backwards           
+#frame: 50        #num_bbxs: 2         #interacting: 1 - 2
+1   208   49    132   kiss                frontal_right       
+2   260   104   104   kiss                backwards           
+#frame: 51        #num_bbxs: 2         #interacting: 1 - 2
+1   208   49    132   kiss                frontal_right       
+2   258   104   104   kiss                backwards           
+#frame: 52        #num_bbxs: 2         #interacting: 1 - 2
+1   208   48    132   kiss                frontal_right       
+2   256   104   104   kiss                backwards           
+#frame: 53        #num_bbxs: 2         #interacting: 1 - 2
+1   208   48    132   kiss                frontal_right       
+2   256   104   104   kiss                backwards           
+#frame: 54        #num_bbxs: 2         #interacting: 1 - 2
+1   209   48    132   kiss                frontal_right       
+2   256   104   104   kiss                backwards           
+#frame: 55        #num_bbxs: 2         #interacting: 1 - 2
+1   209   48    132   kiss                frontal_right       
+2   257   103   104   kiss                backwards           
+#frame: 56        #num_bbxs: 2         #interacting: 1 - 2
+1   210   48    132   kiss                frontal_right       
+2   258   103   104   kiss                backwards           
+#frame: 57        #num_bbxs: 2         #interacting: 1 - 2
+1   211   48    132   kiss                frontal_right       
+2   259   102   104   kiss                backwards           
+#frame: 58        #num_bbxs: 2         #interacting: 1 - 2
+1   211   48    132   kiss                frontal_right       
+2   261   101   104   kiss                backwards           
+#frame: 59        #num_bbxs: 2         #interacting: 1 - 2
+1   212   47    132   kiss                frontal_right       
+2   263   100   104   kiss                backwards           
+#frame: 60        #num_bbxs: 2         #interacting: 1 - 2
+1   213   47    132   kiss                frontal_right       
+2   266   99    104   kiss                backwards           
+#frame: 61        #num_bbxs: 2         #interacting: 1 - 2
+1   214   47    132   kiss                frontal_right       
+2   270   98    104   kiss                backwards           
+#frame: 62        #num_bbxs: 2         #interacting: 1 - 2
+1   214   47    132   kiss                frontal_right       
+2   275   97    104   kiss                backwards           
+#frame: 63        #num_bbxs: 2         #interacting: 1 - 2
+1   215   47    132   kiss                frontal_right       
+2   279   97    104   kiss                backwards           
+#frame: 64        #num_bbxs: 2         #interacting: 1 - 2
+1   216   47    132   kiss                frontal_right       
+2   281   97    104   kiss                backwards           
+#frame: 65        #num_bbxs: 2         #interacting: 1 - 2
+1   219   46    132   kiss                frontal_right       
+2   284   98    104   kiss                backwards           
+#frame: 66        #num_bbxs: 2         #interacting: 1 - 2
+1   224   46    132   kiss                frontal_right       
+2   287   97    104   kiss                backwards           
+#frame: 67        #num_bbxs: 2         #interacting: 1 - 2
+1   229   45    132   kiss                frontal_right       
+2   289   96    104   kiss                backwards           
+#frame: 68        #num_bbxs: 2         #interacting: 1 - 2
+1   232   45    132   kiss                frontal_right       
+2   292   95    104   kiss                backwards           
+#frame: 69        #num_bbxs: 2         #interacting: 1 - 2
+1   236   44    132   kiss                frontal_right       
+2   294   95    104   kiss                backwards           
+#frame: 70        #num_bbxs: 2         #interacting: 1 - 2
+1   239   44    132   kiss                frontal_right       
+2   296   94    104   kiss                backwards           
+#frame: 71        #num_bbxs: 2         #interacting: 1 - 2
+1   241   43    132   kiss                frontal_right       
+2   297   94    104   kiss                backwards           
+#frame: 72        #num_bbxs: 2         #interacting: 1 - 2
+1   243   42    132   kiss                frontal_right       
+2   297   95    103   kiss                backwards           
+#frame: 73        #num_bbxs: 2         #interacting: 1 - 2
+1   245   41    132   kiss                frontal_right       
+2   298   95    101   kiss                profile_left        
+#frame: 74        #num_bbxs: 2         #interacting: 1 - 2
+1   248   40    132   kiss                frontal_right       
+2   301   95    100   kiss                profile_left        
+#frame: 75        #num_bbxs: 2         #interacting: 1 - 2
+1   249   40    132   kiss                frontal_right       
+2   302   95    100   kiss                profile_left        
+#frame: 76        #num_bbxs: 2         #interacting: 1 - 2
+1   250   40    132   kiss                frontal_right       
+2   304   95    100   kiss                profile_left        
+#frame: 77        #num_bbxs: 2         #interacting: 1 - 2
+1   250   40    132   kiss                frontal_right       
+2   305   94    100   kiss                profile_left        
+#frame: 78        #num_bbxs: 2         #interacting: 1 - 2
+1   250   40    132   kiss                frontal_right       
+2   306   94    100   kiss                profile_left        
+#frame: 79        #num_bbxs: 2         #interacting: 1 - 2
+1   250   39    132   kiss                frontal_right       
+2   306   94    100   kiss                profile_left        
+#frame: 80        #num_bbxs: 2         #interacting: 1 - 2
+1   250   39    132   kiss                frontal_right       
+2   306   94    100   kiss                profile_left        
+#frame: 81        #num_bbxs: 2         #interacting: 1 - 2
+1   251   38    132   kiss                frontal_right       
+2   306   94    100   kiss                profile_left        
+#frame: 82        #num_bbxs: 2         #interacting: 1 - 2
+1   254   38    132   kiss                frontal_right       
+2   306   93    100   kiss                profile_left        
+#frame: 83        #num_bbxs: 2         #interacting: 1 - 2
+1   255   37    132   kiss                frontal_right       
+2   306   93    100   kiss                profile_left        
+#frame: 84        #num_bbxs: 2         #interacting: 1 - 2
+1   255   37    132   kiss                frontal_right       
+2   306   93    100   kiss                profile_left        
+#frame: 85        #num_bbxs: 2         #interacting: 1 - 2
+1   255   37    132   kiss                frontal_right       
+2   307   93    100   kiss                profile_left        
+#frame: 86        #num_bbxs: 2         #interacting: 1 - 2
+1   255   37    132   kiss                frontal_right       
+2   307   93    100   kiss                profile_left        
+#frame: 87        #num_bbxs: 2         #interacting: 1 - 2
+1   255   36    132   kiss                frontal_right       
+2   306   93    100   kiss                profile_left        
+#frame: 88        #num_bbxs: 2         #interacting: 1 - 2
+1   254   36    132   kiss                frontal_right       
+2   306   93    100   kiss                profile_left        
+#frame: 89        #num_bbxs: 2         #interacting: 1 - 2
+1   254   36    132   kiss                frontal_right       
+2   306   93    100   kiss                profile_left        
+#frame: 90        #num_bbxs: 2         #interacting: 1 - 2
+1   254   35    132   kiss                frontal_right       
+2   306   93    100   kiss                profile_left        

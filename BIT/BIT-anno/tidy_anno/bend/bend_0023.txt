@@ -1,0 +1,180 @@
+frame: 1    box_num: 5
+1 170 72 244 221 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 2    box_num: 5
+1 167 75 245 220 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 3    box_num: 5
+1 165 78 246 220 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 4    box_num: 5
+1 163 81 247 220 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 5    box_num: 5
+1 161 84 248 219 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 6    box_num: 5
+1 159 87 249 219 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 7    box_num: 5
+1 157 91 251 219 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 8    box_num: 5
+1 157 93 251 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 9    box_num: 5
+1 157 96 251 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 10    box_num: 5
+1 157 99 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 11    box_num: 5
+1 157 101 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 12    box_num: 5
+1 157 104 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 13    box_num: 5
+1 157 107 253 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 14    box_num: 5
+1 157 106 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 15    box_num: 5
+1 157 106 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 16    box_num: 5
+1 157 105 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 17    box_num: 5
+1 157 105 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 18    box_num: 5
+1 157 105 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 19    box_num: 5
+1 157 104 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 20    box_num: 5
+1 157 104 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 21    box_num: 5
+1 157 104 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 22    box_num: 5
+1 157 103 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 23    box_num: 5
+1 157 103 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 24    box_num: 5
+1 157 103 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 25    box_num: 5
+1 157 102 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 26    box_num: 5
+1 157 102 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 27    box_num: 5
+1 157 102 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 28    box_num: 5
+1 157 101 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 29    box_num: 5
+1 157 101 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action
+frame: 30    box_num: 5
+1 157 101 252 218 bend
+2 95 70 138 221 be_bended
+3 62 91 88 147 no_action
+4 132 88 152 132 no_action
+5 258 78 293 154 no_action

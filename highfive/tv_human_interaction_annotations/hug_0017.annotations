@@ -1,0 +1,106 @@
+#num_frames: 36
+#frame:     0     #num_bbxs:     1
+0   292   68    170   no_interaction      profile_left        
+#frame: 1         #num_bbxs: 1    
+0   286   67    170   no_interaction      profile_left        
+#frame: 2         #num_bbxs: 1    
+0   279   66    170   no_interaction      profile_left        
+#frame: 3         #num_bbxs: 2    
+0   271   66    170   no_interaction      profile_left        
+1   16    105   185   no_interaction      profile_right       
+#frame: 4         #num_bbxs: 2    
+0   264   67    170   no_interaction      profile_left        
+1   28    103   184   no_interaction      profile_right       
+#frame: 5         #num_bbxs: 2    
+0   260   68    170   no_interaction      profile_left        
+1   46    103   180   no_interaction      profile_right       
+#frame: 6         #num_bbxs: 2    
+0   255   67    170   no_interaction      profile_left        
+1   65    103   175   no_interaction      profile_right       
+#frame: 7         #num_bbxs: 2    
+0   249   66    170   no_interaction      profile_left        
+1   84    102   171   no_interaction      profile_right       
+#frame: 8         #num_bbxs: 2    
+0   243   66    170   no_interaction      profile_left        
+1   99    100   170   no_interaction      profile_right       
+#frame: 9         #num_bbxs: 2    
+0   240   67    170   no_interaction      profile_left        
+1   113   97    170   no_interaction      profile_right       
+#frame: 10        #num_bbxs: 2    
+0   237   67    170   no_interaction      profile_left        
+1   124   94    170   no_interaction      profile_right       
+#frame: 11        #num_bbxs: 2    
+0   234   65    170   no_interaction      profile_left        
+1   135   90    170   no_interaction      profile_right       
+#frame: 12        #num_bbxs: 2    
+0   231   64    170   no_interaction      profile_left        
+1   146   87    170   no_interaction      profile_right       
+#frame: 13        #num_bbxs: 2    
+0   227   63    170   no_interaction      profile_left        
+1   154   84    170   no_interaction      profile_right       
+#frame: 14        #num_bbxs: 2         #interacting: 0 - 1
+0   222   61    170   hug                 profile_left        
+1   161   83    170   hug                 profile_right       
+#frame: 15        #num_bbxs: 2         #interacting: 0 - 1
+0   218   59    170   hug                 profile_left        
+1   167   82    170   hug                 profile_right       
+#frame: 16        #num_bbxs: 2         #interacting: 0 - 1
+0   214   59    170   hug                 profile_left        
+1   170   81    170   hug                 profile_right       
+#frame: 17        #num_bbxs: 2         #interacting: 0 - 1
+0   211   60    170   hug                 profile_left        
+1   170   79    170   hug                 profile_right       
+#frame: 18        #num_bbxs: 2         #interacting: 0 - 1
+0   208   61    170   hug                 profile_left        
+1   170   76    170   hug                 profile_right       
+#frame: 19        #num_bbxs: 2         #interacting: 0 - 1
+0   206   60    170   hug                 profile_left        
+1   172   74    170   hug                 profile_right       
+#frame: 20        #num_bbxs: 2         #interacting: 0 - 1
+0   205   59    170   hug                 profile_left        
+1   174   73    170   hug                 profile_right       
+#frame: 21        #num_bbxs: 2         #interacting: 0 - 1
+0   204   58    170   hug                 profile_left        
+1   175   73    170   hug                 profile_right       
+#frame: 22        #num_bbxs: 2         #interacting: 0 - 1
+0   204   57    170   hug                 profile_left        
+1   176   73    170   hug                 profile_right       
+#frame: 23        #num_bbxs: 2         #interacting: 0 - 1
+0   204   55    170   hug                 profile_left        
+1   177   72    170   hug                 profile_right       
+#frame: 24        #num_bbxs: 2         #interacting: 0 - 1
+0   204   53    170   hug                 profile_left        
+1   180   70    170   hug                 profile_right       
+#frame: 25        #num_bbxs: 2         #interacting: 0 - 1
+0   204   51    170   hug                 profile_left        
+1   183   66    170   hug                 profile_right       
+#frame: 26        #num_bbxs: 2         #interacting: 0 - 1
+0   205   48    170   hug                 profile_left        
+1   185   63    170   hug                 profile_right       
+#frame: 27        #num_bbxs: 2         #interacting: 0 - 1
+0   205   46    170   hug                 profile_left        
+1   185   60    170   hug                 profile_right       
+#frame: 28        #num_bbxs: 2         #interacting: 0 - 1
+0   205   44    170   hug                 profile_left        
+1   185   59    170   hug                 profile_right       
+#frame: 29        #num_bbxs: 2         #interacting: 0 - 1
+0   206   43    170   hug                 profile_left        
+1   185   57    170   hug                 profile_right       
+#frame: 30        #num_bbxs: 2         #interacting: 0 - 1
+0   206   43    170   hug                 profile_left        
+1   185   57    170   hug                 profile_right       
+#frame: 31        #num_bbxs: 2         #interacting: 0 - 1
+0   206   42    170   hug                 profile_left        
+1   186   56    170   hug                 profile_right       
+#frame: 32        #num_bbxs: 2         #interacting: 0 - 1
+0   205   42    170   hug                 profile_left        
+1   187   56    170   hug                 profile_right       
+#frame: 33        #num_bbxs: 2         #interacting: 0 - 1
+0   204   42    170   hug                 profile_left        
+1   188   55    170   hug                 profile_right       
+#frame: 34        #num_bbxs: 2         #interacting: 0 - 1
+0   203   42    170   hug                 profile_left        
+1   188   55    170   hug                 profile_right       
+#frame: 35        #num_bbxs: 2         #interacting: 0 - 1
+0   202   43    170   hug                 profile_left        
+1   186   55    170   hug                 profile_right       

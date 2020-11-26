@@ -1,0 +1,180 @@
+frame: 1    box_num: 2
+1 107 34 166 204 no_action
+2 237 35 287 207 no_action
+frame: 2    box_num: 2
+1 107 34 167 204 no_action
+2 236 35 287 206 no_action
+frame: 3    box_num: 2
+1 107 34 168 204 no_action
+2 236 35 287 206 no_action
+frame: 4    box_num: 2
+1 107 34 169 204 no_action
+2 236 35 287 206 no_action
+frame: 5    box_num: 2
+1 107 34 170 204 no_action
+2 235 35 287 206 no_action
+frame: 6    box_num: 2
+1 107 34 172 205 no_action
+2 235 35 287 206 no_action
+frame: 7    box_num: 2
+1 107 34 173 205 no_action
+2 235 35 287 206 no_action
+frame: 8    box_num: 2
+1 107 34 174 205 no_action
+2 234 35 287 206 no_action
+frame: 9    box_num: 2
+1 107 34 175 205 no_action
+2 234 35 287 206 no_action
+frame: 10    box_num: 2
+1 107 34 177 206 no_action
+2 234 35 287 206 no_action
+frame: 11    box_num: 2
+1 107 34 178 206 no_action
+2 233 35 287 206 no_action
+frame: 12    box_num: 2
+1 107 34 179 206 no_action
+2 233 35 287 206 no_action
+frame: 13    box_num: 2
+1 107 34 180 206 no_action
+2 233 35 287 206 no_action
+frame: 14    box_num: 2
+1 107 35 182 207 no_action
+2 233 35 287 206 no_action
+frame: 15    box_num: 2
+1 107 35 184 206 no_action
+2 232 35 286 206 no_action
+frame: 16    box_num: 2
+1 107 35 187 206 no_action
+2 231 35 286 206 no_action
+frame: 17    box_num: 2
+1 107 35 189 206 no_action
+2 230 35 286 206 no_action
+frame: 18    box_num: 2
+1 107 35 192 206 no_action
+2 229 35 286 206 no_action
+frame: 19    box_num: 2
+1 107 35 194 206 no_action
+2 228 35 286 206 no_action
+frame: 20    box_num: 2
+1 107 35 197 206 no_action
+2 227 35 286 206 no_action
+frame: 21    box_num: 2
+1 107 35 199 206 no_action
+2 226 35 286 206 no_action
+frame: 22    box_num: 2
+1 107 35 202 206 no_action
+2 225 35 286 206 no_action
+frame: 23    box_num: 2
+1 107 35 205 205 no_action
+2 221 35 286 205 no_action
+frame: 24    box_num: 2
+1 107 35 209 205 no_action
+2 217 35 286 205 no_action
+frame: 25    box_num: 2
+1 107 35 212 205 no_action
+2 213 35 286 205 no_action
+frame: 26    box_num: 2
+1 107 35 216 205 highfive
+2 209 35 286 205 highfive
+frame: 27    box_num: 2
+1 107 35 220 205 highfive
+2 205 35 286 205 highfive
+frame: 28    box_num: 2
+1 107 35 222 204 highfive
+2 206 35 286 204 highfive
+frame: 29    box_num: 2
+1 107 35 224 204 highfive
+2 207 35 286 204 highfive
+frame: 30    box_num: 2
+1 107 35 226 204 highfive
+2 208 35 286 204 highfive
+frame: 31    box_num: 2
+1 107 35 228 204 highfive
+2 209 35 286 204 highfive
+frame: 32    box_num: 2
+1 107 35 230 204 highfive
+2 210 35 286 204 highfive
+frame: 33    box_num: 2
+1 106 34 227 204 highfive
+2 211 35 286 204 highfive
+frame: 34    box_num: 2
+1 105 34 225 204 highfive
+2 212 35 286 204 highfive
+frame: 35    box_num: 2
+1 104 34 223 204 highfive
+2 213 35 286 204 highfive
+frame: 36    box_num: 2
+1 103 33 221 205 highfive
+2 214 35 286 205 highfive
+frame: 37    box_num: 2
+1 102 33 219 205 highfive
+2 215 35 286 205 highfive
+frame: 38    box_num: 2
+1 101 33 217 205 highfive
+2 216 35 286 205 highfive
+frame: 39    box_num: 2
+1 101 33 215 206 highfive
+2 217 35 286 205 highfive
+frame: 40    box_num: 2
+1 100 33 210 205 highfive
+2 218 35 286 206 highfive
+frame: 41    box_num: 2
+1 100 33 205 205 highfive
+2 219 35 286 206 highfive
+frame: 42    box_num: 2
+1 99 33 200 205 highfive
+2 220 35 286 206 highfive
+frame: 43    box_num: 2
+1 99 33 195 205 highfive
+2 221 35 286 206 highfive
+frame: 44    box_num: 2
+1 98 33 190 205 no_action
+2 222 35 286 207 no_action
+frame: 45    box_num: 2
+1 98 33 185 205 no_action
+2 223 35 286 207 no_action
+frame: 46    box_num: 2
+1 97 33 180 205 no_action
+2 224 35 286 207 no_action
+frame: 47    box_num: 2
+1 97 33 176 205 no_action
+2 226 35 287 208 no_action
+frame: 48    box_num: 2
+1 96 33 174 204 no_action
+2 226 35 287 207 no_action
+frame: 49    box_num: 2
+1 95 33 172 204 no_action
+2 227 35 287 207 no_action
+frame: 50    box_num: 2
+1 95 33 170 204 no_action
+2 228 35 287 207 no_action
+frame: 51    box_num: 2
+1 94 33 168 204 no_action
+2 229 35 287 207 no_action
+frame: 52    box_num: 2
+1 94 33 166 204 no_action
+2 230 35 287 207 no_action
+frame: 53    box_num: 2
+1 93 33 165 204 no_action
+2 231 35 287 207 no_action
+frame: 54    box_num: 2
+1 93 33 163 204 no_action
+2 232 35 287 207 no_action
+frame: 55    box_num: 2
+1 92 33 161 204 no_action
+2 233 35 287 207 no_action
+frame: 56    box_num: 2
+1 92 33 159 204 no_action
+2 234 35 287 207 no_action
+frame: 57    box_num: 2
+1 91 33 157 204 no_action
+2 235 35 287 207 no_action
+frame: 58    box_num: 2
+1 91 33 156 204 no_action
+2 236 35 287 207 no_action
+frame: 59    box_num: 2
+1 91 33 156 204 no_action
+2 236 35 287 207 no_action
+frame: 60    box_num: 2
+1 91 33 156 204 no_action
+2 236 35 287 207 no_action

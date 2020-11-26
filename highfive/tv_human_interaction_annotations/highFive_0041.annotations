@@ -1,0 +1,72 @@
+#num_frames: 30
+#frame:     0     #num_bbxs:     1
+0   97    21    180   no_interaction      frontal_right       
+#frame: 1         #num_bbxs: 1    
+0   97    21    180   no_interaction      profile_right       
+#frame: 2         #num_bbxs: 1    
+0   96    21    180   no_interaction      profile_right       
+#frame: 3         #num_bbxs: 1    
+0   96    21    180   no_interaction      profile_right       
+#frame: 4         #num_bbxs: 1    
+0   96    22    180   no_interaction      profile_right       
+#frame: 5         #num_bbxs: 1    
+0   96    22    180   no_interaction      profile_right       
+#frame: 6         #num_bbxs: 1    
+0   96    22    180   no_interaction      profile_right       
+#frame: 7         #num_bbxs: 1    
+0   96    21    180   no_interaction      profile_right       
+#frame: 8         #num_bbxs: 1    
+0   96    21    180   no_interaction      profile_right       
+#frame: 9         #num_bbxs: 1    
+0   96    21    180   no_interaction      profile_right       
+#frame: 10        #num_bbxs: 1    
+0   96    21    180   no_interaction      profile_right       
+#frame: 11        #num_bbxs: 1    
+0   96    20    180   no_interaction      profile_right       
+#frame: 12        #num_bbxs: 1    
+0   96    20    180   no_interaction      profile_right       
+#frame: 13        #num_bbxs: 1    
+0   97    20    180   no_interaction      profile_right       
+#frame: 14        #num_bbxs: 1    
+0   97    19    180   no_interaction      profile_right       
+#frame: 15        #num_bbxs: 1    
+0   98    19    180   high_five           profile_right       
+#frame: 16        #num_bbxs: 1    
+0   98    19    180   high_five           profile_right       
+#frame: 17        #num_bbxs: 1    
+0   99    18    180   high_five           profile_right       
+#frame: 18        #num_bbxs: 1    
+0   99    18    180   high_five           profile_right       
+#frame: 19        #num_bbxs: 2         #interacting: 0 - 1
+0   100   18    180   high_five           profile_right       
+1   340   17    160   high_five           profile_left        
+#frame: 20        #num_bbxs: 2         #interacting: 0 - 1
+0   101   17    180   high_five           profile_right       
+1   329   18    160   high_five           profile_left        
+#frame: 21        #num_bbxs: 2         #interacting: 0 - 1
+0   101   16    180   high_five           profile_right       
+1   315   18    160   high_five           profile_left        
+#frame: 22        #num_bbxs: 2         #interacting: 0 - 1
+0   102   15    180   high_five           frontal_right       
+1   300   19    160   high_five           profile_left        
+#frame: 23        #num_bbxs: 2         #interacting: 0 - 1
+0   101   14    180   high_five           frontal_right       
+1   285   19    160   high_five           profile_left        
+#frame: 24        #num_bbxs: 2    
+0   101   13    180   no_interaction      frontal_right       
+1   271   19    160   no_interaction      frontal_left        
+#frame: 25        #num_bbxs: 2    
+0   100   14    180   no_interaction      frontal_right       
+1   255   19    160   no_interaction      profile_left        
+#frame: 26        #num_bbxs: 2    
+0   99    14    180   no_interaction      frontal_right       
+1   237   20    160   no_interaction      profile_left        
+#frame: 27        #num_bbxs: 2    
+0   98    16    180   no_interaction      frontal_right       
+1   219   22    160   no_interaction      profile_left        
+#frame: 28        #num_bbxs: 2    
+0   97    17    180   no_interaction      frontal_right       
+1   203   25    160   no_interaction      profile_left        
+#frame: 29        #num_bbxs: 2    
+0   97    17    180   no_interaction      frontal_right       
+1   192   27    160   no_interaction      profile_left        

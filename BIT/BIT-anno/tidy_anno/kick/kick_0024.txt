@@ -1,0 +1,90 @@
+frame: 1    box_num: 2
+1 111 85 153 216 no_action
+2 171 94 235 212 no_action
+frame: 2    box_num: 2
+1 111 85 153 216 no_action
+2 171 94 235 212 no_action
+frame: 3    box_num: 2
+1 111 85 153 216 no_action
+2 171 94 235 212 no_action
+frame: 4    box_num: 2
+1 110 85 152 216 be_kicked
+2 166 94 235 211 kick
+frame: 5    box_num: 2
+1 109 85 152 217 be_kicked
+2 162 94 235 211 kick
+frame: 6    box_num: 2
+1 108 85 152 218 be_kicked
+2 158 94 235 211 kick
+frame: 7    box_num: 2
+1 107 85 151 219 be_kicked
+2 153 94 235 211 kick
+frame: 8    box_num: 2
+1 106 85 151 220 be_kicked
+2 149 94 235 211 kick
+frame: 9    box_num: 2
+1 105 85 151 221 be_kicked
+2 145 94 235 211 kick
+frame: 10    box_num: 2
+1 103 85 150 221 be_kicked
+2 145 94 235 210 kick
+frame: 11    box_num: 2
+1 102 85 149 222 be_kicked
+2 146 94 235 210 kick
+frame: 12    box_num: 2
+1 100 85 149 223 be_kicked
+2 146 94 235 210 kick
+frame: 13    box_num: 2
+1 99 85 148 224 be_kicked
+2 147 94 235 210 kick
+frame: 14    box_num: 2
+1 97 85 148 225 be_kicked
+2 147 94 235 210 kick
+frame: 15    box_num: 2
+1 96 85 147 226 be_kicked
+2 148 94 235 210 kick
+frame: 16    box_num: 2
+1 95 86 147 227 be_kicked
+2 149 94 235 210 kick
+frame: 17    box_num: 2
+1 94 86 146 227 be_kicked
+2 152 94 234 210 kick
+frame: 18    box_num: 2
+1 94 86 146 227 be_kicked
+2 156 94 234 211 kick
+frame: 19    box_num: 2
+1 94 86 146 227 no_action
+2 160 94 234 211 no_action
+frame: 20    box_num: 2
+1 94 86 146 227 no_action
+2 164 94 234 212 no_action
+frame: 21    box_num: 2
+1 93 86 145 227 no_action
+2 168 94 234 212 no_action
+frame: 22    box_num: 2
+1 93 86 145 227 no_action
+2 172 94 234 213 no_action
+frame: 23    box_num: 2
+1 93 86 145 227 no_action
+2 173 94 234 212 no_action
+frame: 24    box_num: 2
+1 93 86 145 227 no_action
+2 174 94 234 212 no_action
+frame: 25    box_num: 2
+1 92 86 144 227 no_action
+2 175 94 234 212 no_action
+frame: 26    box_num: 2
+1 92 86 144 227 no_action
+2 177 94 234 212 no_action
+frame: 27    box_num: 2
+1 92 86 144 227 no_action
+2 178 94 234 212 no_action
+frame: 28    box_num: 2
+1 92 86 144 227 no_action
+2 179 94 234 212 no_action
+frame: 29    box_num: 2
+1 92 87 144 228 no_action
+2 181 94 234 212 no_action
+frame: 30    box_num: 2
+1 92 87 144 228 no_action
+2 181 94 234 212 no_action

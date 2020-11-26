@@ -1,0 +1,70 @@
+#num_frames: 23
+#frame:     0     #num_bbxs:     2     #interacting: 0 - 1
+0   99    -6    200   hand_shake          profile_right       
+1   370   15    204   hand_shake          profile_left        
+#frame: 1         #num_bbxs: 2         #interacting: 0 - 1
+0   99    -5    200   hand_shake          profile_right       
+1   370   15    204   hand_shake          profile_left        
+#frame: 2         #num_bbxs: 2         #interacting: 0 - 1
+0   99    -5    200   hand_shake          profile_right       
+1   370   15    204   hand_shake          profile_left        
+#frame: 3         #num_bbxs: 2         #interacting: 0 - 1
+0   99    -5    200   hand_shake          profile_right       
+1   371   15    204   hand_shake          profile_left        
+#frame: 4         #num_bbxs: 2         #interacting: 0 - 1
+0   99    -5    200   hand_shake          profile_right       
+1   371   15    204   hand_shake          profile_left        
+#frame: 5         #num_bbxs: 2         #interacting: 0 - 1
+0   99    -5    200   hand_shake          profile_right       
+1   371   15    204   hand_shake          profile_left        
+#frame: 6         #num_bbxs: 2         #interacting: 0 - 1
+0   101   -4    200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 7         #num_bbxs: 2         #interacting: 0 - 1
+0   104   -3    200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 8         #num_bbxs: 2         #interacting: 0 - 1
+0   107   -1    200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 9         #num_bbxs: 2         #interacting: 0 - 1
+0   109   1     200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 10        #num_bbxs: 2         #interacting: 0 - 1
+0   110   3     200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 11        #num_bbxs: 2         #interacting: 0 - 1
+0   110   3     200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 12        #num_bbxs: 2         #interacting: 0 - 1
+0   111   3     200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 13        #num_bbxs: 2         #interacting: 0 - 1
+0   111   2     200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 14        #num_bbxs: 2         #interacting: 0 - 1
+0   111   2     200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 15        #num_bbxs: 2         #interacting: 0 - 1
+0   111   2     200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 16        #num_bbxs: 2         #interacting: 0 - 1
+0   112   1     200   hand_shake          profile_right       
+1   372   15    204   hand_shake          profile_left        
+#frame: 17        #num_bbxs: 2         #interacting: 0 - 1
+0   112   1     200   hand_shake          profile_right       
+1   371   16    204   hand_shake          profile_left        
+#frame: 18        #num_bbxs: 2         #interacting: 0 - 1
+0   112   1     200   hand_shake          profile_right       
+1   371   16    204   hand_shake          profile_left        
+#frame: 19        #num_bbxs: 2         #interacting: 0 - 1
+0   113   1     200   hand_shake          profile_right       
+1   371   16    204   hand_shake          profile_left        
+#frame: 20        #num_bbxs: 2         #interacting: 0 - 1
+0   115   0     200   hand_shake          profile_right       
+1   371   16    204   hand_shake          profile_left        
+#frame: 21        #num_bbxs: 2         #interacting: 0 - 1
+0   115   0     200   hand_shake          profile_right       
+1   371   16    204   hand_shake          profile_left        
+#frame: 22        #num_bbxs: 2         #interacting: 0 - 1
+0   115   -1    200   hand_shake          profile_right       
+1   371   16    204   hand_shake          profile_left        

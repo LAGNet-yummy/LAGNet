@@ -1,0 +1,396 @@
+frame: 1    box_num: 5
+1 106 45 152 154 no_action
+2 175 49 219 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 2    box_num: 5
+1 106 45 153 154 no_action
+2 174 49 218 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 3    box_num: 5
+1 107 45 155 154 no_action
+2 174 49 218 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 4    box_num: 5
+1 107 45 156 154 no_action
+2 173 49 217 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 5    box_num: 5
+1 108 45 158 154 no_action
+2 173 49 217 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 6    box_num: 5
+1 108 45 159 154 no_action
+2 172 49 216 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 7    box_num: 5
+1 109 45 161 154 no_action
+2 172 49 216 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 8    box_num: 5
+1 110 45 163 154 no_action
+2 172 49 216 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 9    box_num: 5
+1 110 45 164 154 no_action
+2 171 49 215 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 10    box_num: 5
+1 111 45 166 154 no_action
+2 171 49 215 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 11    box_num: 5
+1 111 45 167 154 no_action
+2 170 49 214 149 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 12    box_num: 5
+1 112 45 169 154 no_action
+2 170 50 214 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 13    box_num: 5
+1 112 45 170 154 no_action
+2 170 50 214 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 14    box_num: 5
+1 113 45 172 154 no_action
+2 169 50 213 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 15    box_num: 5
+1 114 46 174 154 no_action
+2 169 50 213 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 249 58 287 150 no_action
+frame: 16    box_num: 5
+1 115 46 175 154 no_action
+2 168 50 212 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 17    box_num: 5
+1 116 46 176 154 no_action
+2 168 50 212 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 18    box_num: 5
+1 117 46 177 154 no_action
+2 168 50 212 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 19    box_num: 5
+1 118 46 178 154 no_action
+2 167 50 211 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 20    box_num: 5
+1 119 46 179 154 no_action
+2 167 50 211 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 21    box_num: 5
+1 120 46 180 154 no_action
+2 166 50 210 150 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 22    box_num: 5
+1 121 46 181 154 pat
+2 166 50 210 150 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 23    box_num: 5
+1 123 46 183 154 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 24    box_num: 5
+1 123 46 183 153 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 25    box_num: 5
+1 124 46 183 153 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 26    box_num: 5
+1 124 46 183 153 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 27    box_num: 5
+1 125 46 183 153 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 28    box_num: 5
+1 126 46 183 153 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 29    box_num: 5
+1 126 46 183 153 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 30    box_num: 5
+1 127 46 183 153 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 250 58 288 150 no_action
+frame: 31    box_num: 5
+1 127 46 183 153 pat
+2 166 51 210 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 32    box_num: 5
+1 128 46 183 153 pat
+2 167 51 211 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 33    box_num: 5
+1 129 46 183 153 pat
+2 167 51 211 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 34    box_num: 5
+1 129 46 183 153 pat
+2 167 51 211 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 35    box_num: 5
+1 130 46 183 153 pat
+2 167 51 211 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 36    box_num: 5
+1 131 46 183 153 pat
+2 167 51 211 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 37    box_num: 5
+1 130 46 182 153 pat
+2 167 51 211 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 38    box_num: 5
+1 130 46 182 153 pat
+2 167 51 211 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 39    box_num: 5
+1 130 46 182 153 pat
+2 167 51 211 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 40    box_num: 5
+1 130 46 182 153 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 41    box_num: 5
+1 129 46 181 153 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 42    box_num: 5
+1 129 46 181 153 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 43    box_num: 5
+1 129 46 181 153 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 44    box_num: 5
+1 129 46 181 153 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 251 58 289 150 no_action
+frame: 45    box_num: 5
+1 129 46 181 153 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 46    box_num: 5
+1 127 46 181 153 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 47    box_num: 5
+1 126 47 181 153 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 48    box_num: 5
+1 125 47 181 154 pat
+2 168 51 212 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 49    box_num: 5
+1 123 48 181 154 pat
+2 169 51 213 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 50    box_num: 5
+1 122 48 181 154 pat
+2 169 51 213 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 51    box_num: 5
+1 121 49 182 155 pat
+2 169 51 213 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 52    box_num: 5
+1 119 49 180 155 pat
+2 169 51 213 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 53    box_num: 5
+1 118 49 179 155 pat
+2 169 51 213 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 54    box_num: 5
+1 117 49 178 155 pat
+2 169 51 213 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 55    box_num: 5
+1 116 49 177 155 pat
+2 169 51 213 151 be_pated
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 56    box_num: 5
+1 115 49 176 155 no_action
+2 169 51 213 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 57    box_num: 5
+1 114 50 175 156 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 58    box_num: 5
+1 113 49 173 155 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 59    box_num: 5
+1 113 49 171 155 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 60    box_num: 5
+1 113 49 169 155 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 61    box_num: 5
+1 112 49 167 155 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 62    box_num: 5
+1 112 49 165 154 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 63    box_num: 5
+1 112 49 163 154 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 64    box_num: 5
+1 111 49 161 154 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 65    box_num: 5
+1 111 49 159 154 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action
+frame: 66    box_num: 5
+1 111 49 157 154 no_action
+2 170 51 214 151 no_action
+3 0 24 43 177 no_action
+4 24 25 72 167 no_action
+5 252 58 290 150 no_action

@@ -1,0 +1,237 @@
+frame: 1    box_num: 2
+1 50 27 131 216 no_action
+2 156 38 218 216 no_action
+frame: 2    box_num: 2
+1 50 27 131 216 no_action
+2 156 38 218 216 no_action
+frame: 3    box_num: 2
+1 51 27 131 216 no_action
+2 156 38 218 216 no_action
+frame: 4    box_num: 2
+1 52 27 132 216 no_action
+2 156 38 219 216 no_action
+frame: 5    box_num: 2
+1 53 27 133 216 no_action
+2 156 38 219 216 no_action
+frame: 6    box_num: 2
+1 55 27 133 216 no_action
+2 156 38 220 216 no_action
+frame: 7    box_num: 2
+1 56 27 134 216 no_action
+2 156 38 220 216 no_action
+frame: 8    box_num: 2
+1 57 27 135 216 no_action
+2 156 38 221 216 no_action
+frame: 9    box_num: 2
+1 58 27 135 216 no_action
+2 156 38 222 217 no_action
+frame: 10    box_num: 2
+1 60 28 136 216 no_action
+2 157 38 222 217 no_action
+frame: 11    box_num: 2
+1 61 28 137 216 no_action
+2 157 38 223 217 no_action
+frame: 12    box_num: 2
+1 62 28 137 216 no_action
+2 157 38 223 217 no_action
+frame: 13    box_num: 2
+1 63 28 138 216 no_action
+2 157 38 224 217 no_action
+frame: 14    box_num: 2
+1 65 28 139 216 no_action
+2 157 38 225 217 no_action
+frame: 15    box_num: 2
+1 66 28 139 216 no_action
+2 157 38 225 217 no_action
+frame: 16    box_num: 2
+1 67 28 140 216 no_action
+2 157 38 226 218 no_action
+frame: 17    box_num: 2
+1 69 29 141 217 no_action
+2 157 38 226 218 no_action
+frame: 18    box_num: 2
+1 69 28 141 216 no_action
+2 158 38 227 218 no_action
+frame: 19    box_num: 2
+1 69 28 142 216 no_action
+2 158 38 228 218 no_action
+frame: 20    box_num: 2
+1 70 28 143 216 no_action
+2 158 38 228 218 no_action
+frame: 21    box_num: 2
+1 70 28 144 216 no_action
+2 158 38 229 218 no_action
+frame: 22    box_num: 2
+1 70 28 145 216 no_action
+2 158 38 229 218 no_action
+frame: 23    box_num: 2
+1 71 28 146 216 no_action
+2 158 38 230 219 no_action
+frame: 24    box_num: 2
+1 71 28 147 216 no_action
+2 158 38 231 219 no_action
+frame: 25    box_num: 2
+1 71 28 147 215 no_action
+2 158 38 231 219 no_action
+frame: 26    box_num: 2
+1 72 28 148 215 no_action
+2 159 39 232 219 no_action
+frame: 27    box_num: 2
+1 72 28 149 215 no_action
+2 159 39 232 219 no_action
+frame: 28    box_num: 2
+1 73 28 150 215 no_action
+2 159 39 233 219 no_action
+frame: 29    box_num: 2
+1 73 27 151 215 no_action
+2 159 39 234 220 no_action
+frame: 30    box_num: 2
+1 73 27 152 215 no_action
+2 159 39 234 220 no_action
+frame: 31    box_num: 2
+1 74 27 153 215 no_action
+2 159 39 235 220 no_action
+frame: 32    box_num: 2
+1 74 27 153 214 no_action
+2 159 39 235 220 no_action
+frame: 33    box_num: 2
+1 74 27 154 214 no_action
+2 159 39 236 220 no_action
+frame: 34    box_num: 2
+1 75 27 155 214 no_action
+2 160 39 237 220 no_action
+frame: 35    box_num: 2
+1 75 27 156 214 no_action
+2 160 39 237 220 no_action
+frame: 36    box_num: 2
+1 75 27 157 214 no_action
+2 160 39 238 221 no_action
+frame: 37    box_num: 2
+1 76 27 158 214 box
+2 160 39 238 221 be_boxed
+frame: 38    box_num: 2
+1 76 27 159 214 box
+2 160 39 239 221 be_boxed
+frame: 39    box_num: 2
+1 77 27 160 214 box
+2 160 39 240 221 be_boxed
+frame: 40    box_num: 2
+1 77 27 160 214 box
+2 160 39 240 221 be_boxed
+frame: 41    box_num: 2
+1 77 27 160 214 box
+2 160 39 241 221 be_boxed
+frame: 42    box_num: 2
+1 78 27 161 214 box
+2 161 39 241 221 be_boxed
+frame: 43    box_num: 2
+1 78 27 161 214 box
+2 161 39 242 222 be_boxed
+frame: 44    box_num: 2
+1 79 27 162 214 box
+2 161 39 243 222 be_boxed
+frame: 45    box_num: 2
+1 79 27 162 214 box
+2 161 39 243 222 be_boxed
+frame: 46    box_num: 2
+1 79 27 162 214 box
+2 161 39 244 222 be_boxed
+frame: 47    box_num: 2
+1 80 27 163 214 box
+2 161 39 244 222 be_boxed
+frame: 48    box_num: 2
+1 80 27 163 214 box
+2 161 39 245 222 be_boxed
+frame: 49    box_num: 2
+1 81 28 164 215 box
+2 162 40 246 223 be_boxed
+frame: 50    box_num: 2
+1 80 28 162 215 box
+2 162 39 248 223 be_boxed
+frame: 51    box_num: 2
+1 79 28 160 215 box
+2 162 39 250 223 be_boxed
+frame: 52    box_num: 2
+1 78 28 158 215 box
+2 162 39 252 223 be_boxed
+frame: 53    box_num: 2
+1 77 28 156 215 box
+2 162 39 254 223 be_boxed
+frame: 54    box_num: 2
+1 76 28 155 215 box
+2 162 39 256 223 be_boxed
+frame: 55    box_num: 2
+1 75 28 153 215 box
+2 162 39 258 223 be_boxed
+frame: 56    box_num: 2
+1 75 29 151 215 no_action
+2 162 39 261 224 no_action
+frame: 57    box_num: 2
+1 74 29 149 215 no_action
+2 162 39 263 224 no_action
+frame: 58    box_num: 2
+1 73 29 147 215 no_action
+2 162 39 265 224 no_action
+frame: 59    box_num: 2
+1 72 29 146 215 no_action
+2 162 39 267 224 no_action
+frame: 60    box_num: 2
+1 71 29 144 215 no_action
+2 162 39 269 224 no_action
+frame: 61    box_num: 2
+1 70 29 142 215 no_action
+2 162 39 271 224 no_action
+frame: 62    box_num: 2
+1 69 29 140 215 no_action
+2 162 39 273 224 no_action
+frame: 63    box_num: 2
+1 69 30 139 216 no_action
+2 163 39 276 225 no_action
+frame: 64    box_num: 2
+1 68 30 138 216 no_action
+2 163 39 274 224 no_action
+frame: 65    box_num: 2
+1 68 30 138 216 no_action
+2 163 39 272 224 no_action
+frame: 66    box_num: 2
+1 67 30 137 216 no_action
+2 163 39 270 224 no_action
+frame: 67    box_num: 2
+1 67 30 137 216 no_action
+2 163 39 268 224 no_action
+frame: 68    box_num: 2
+1 66 30 136 216 no_action
+2 163 39 267 224 no_action
+frame: 69    box_num: 2
+1 66 30 136 216 no_action
+2 163 39 265 224 no_action
+frame: 70    box_num: 2
+1 65 30 135 216 no_action
+2 163 39 263 224 no_action
+frame: 71    box_num: 2
+1 65 30 135 216 no_action
+2 163 39 261 224 no_action
+frame: 72    box_num: 2
+1 64 30 134 216 no_action
+2 163 39 259 224 no_action
+frame: 73    box_num: 2
+1 64 30 134 216 no_action
+2 163 39 258 224 no_action
+frame: 74    box_num: 2
+1 63 30 133 216 no_action
+2 163 39 256 224 no_action
+frame: 75    box_num: 2
+1 63 30 133 216 no_action
+2 163 39 254 224 no_action
+frame: 76    box_num: 2
+1 62 30 132 216 no_action
+2 163 39 252 224 no_action
+frame: 77    box_num: 2
+1 62 30 132 216 no_action
+2 163 39 250 224 no_action
+frame: 78    box_num: 2
+1 62 31 132 217 no_action
+2 163 39 249 224 no_action
+frame: 79    box_num: 2
+1 62 31 132 217 no_action
+2 163 39 249 224 no_action

@@ -1,0 +1,90 @@
+frame: 1    box_num: 2
+1 100 93 147 207 no_action
+2 141 96 204 207 no_action
+frame: 2    box_num: 2
+1 100 93 147 207 handshake
+2 141 94 203 207 handshake
+frame: 3    box_num: 2
+1 100 93 147 207 handshake
+2 141 93 203 207 handshake
+frame: 4    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 203 207 handshake
+frame: 5    box_num: 2
+1 100 93 147 207 handshake
+2 141 90 203 207 handshake
+frame: 6    box_num: 2
+1 100 93 147 207 handshake
+2 141 90 202 207 handshake
+frame: 7    box_num: 2
+1 100 93 147 207 handshake
+2 141 90 202 207 handshake
+frame: 8    box_num: 2
+1 100 93 147 207 handshake
+2 141 90 202 207 handshake
+frame: 9    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 202 207 handshake
+frame: 10    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 202 207 handshake
+frame: 11    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 202 207 handshake
+frame: 12    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 201 207 handshake
+frame: 13    box_num: 2
+1 100 93 147 207 handshake
+2 141 92 201 207 handshake
+frame: 14    box_num: 2
+1 100 93 147 207 handshake
+2 141 92 201 207 handshake
+frame: 15    box_num: 2
+1 100 93 147 207 handshake
+2 141 92 201 207 handshake
+frame: 16    box_num: 2
+1 100 93 147 207 handshake
+2 141 92 201 207 handshake
+frame: 17    box_num: 2
+1 100 93 147 207 handshake
+2 141 93 201 207 handshake
+frame: 18    box_num: 2
+1 100 93 147 207 handshake
+2 141 92 201 207 handshake
+frame: 19    box_num: 2
+1 100 93 147 207 handshake
+2 141 92 201 207 handshake
+frame: 20    box_num: 2
+1 100 93 147 207 handshake
+2 141 92 201 207 handshake
+frame: 21    box_num: 2
+1 100 93 147 207 handshake
+2 141 92 201 207 handshake
+frame: 22    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 201 207 handshake
+frame: 23    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 202 207 handshake
+frame: 24    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 202 207 handshake
+frame: 25    box_num: 2
+1 100 93 147 207 handshake
+2 141 91 202 207 handshake
+frame: 26    box_num: 2
+1 100 93 147 207 handshake
+2 141 90 202 207 handshake
+frame: 27    box_num: 2
+1 100 93 147 207 handshake
+2 141 90 202 207 handshake
+frame: 28    box_num: 2
+1 100 93 147 207 handshake
+2 141 90 202 207 handshake
+frame: 29    box_num: 2
+1 100 93 147 207 handshake
+2 141 90 203 207 handshake
+frame: 30    box_num: 2
+1 100 93 147 207 no_action
+2 141 90 203 207 handshake

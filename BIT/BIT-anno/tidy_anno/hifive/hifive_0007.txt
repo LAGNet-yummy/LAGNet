@@ -1,0 +1,156 @@
+frame: 1    box_num: 2
+1 93 90 154 218 no_action
+2 164 95 225 205 no_action
+frame: 2    box_num: 2
+1 93 90 154 217 no_action
+2 163 95 225 204 no_action
+frame: 3    box_num: 2
+1 93 90 154 217 no_action
+2 162 95 225 204 no_action
+frame: 4    box_num: 2
+1 93 90 154 217 no_action
+2 161 95 225 204 no_action
+frame: 5    box_num: 2
+1 94 90 155 217 no_action
+2 160 95 225 204 no_action
+frame: 6    box_num: 2
+1 94 90 155 217 no_action
+2 159 95 225 204 no_action
+frame: 7    box_num: 2
+1 94 90 155 217 no_action
+2 158 95 225 204 no_action
+frame: 8    box_num: 2
+1 95 90 155 217 no_action
+2 157 95 225 204 no_action
+frame: 9    box_num: 2
+1 95 90 156 217 no_action
+2 156 95 225 204 no_action
+frame: 10    box_num: 2
+1 95 90 156 216 no_action
+2 155 95 225 204 no_action
+frame: 11    box_num: 2
+1 96 90 156 216 no_action
+2 154 95 225 204 no_action
+frame: 12    box_num: 2
+1 96 90 156 216 no_action
+2 153 95 225 204 no_action
+frame: 13    box_num: 2
+1 96 90 157 216 no_action
+2 152 95 225 204 no_action
+frame: 14    box_num: 2
+1 97 90 157 216 no_action
+2 151 95 225 204 no_action
+frame: 15    box_num: 2
+1 97 90 157 216 no_action
+2 150 95 225 204 no_action
+frame: 16    box_num: 2
+1 97 90 157 216 no_action
+2 149 95 225 204 no_action
+frame: 17    box_num: 2
+1 98 90 158 216 no_action
+2 149 95 225 204 no_action
+frame: 18    box_num: 2
+1 98 89 158 215 no_action
+2 149 93 224 203 no_action
+frame: 19    box_num: 2
+1 98 89 159 214 highfive
+2 150 92 224 203 highfive
+frame: 20    box_num: 2
+1 98 88 160 214 highfive
+2 151 91 224 203 highfive
+frame: 21    box_num: 2
+1 98 88 161 213 highfive
+2 152 90 224 203 highfive
+frame: 22    box_num: 2
+1 98 87 162 213 highfive
+2 153 88 224 203 highfive
+frame: 23    box_num: 2
+1 98 87 163 212 highfive
+2 154 87 224 203 highfive
+frame: 24    box_num: 2
+1 98 86 164 212 highfive
+2 155 86 224 203 highfive
+frame: 25    box_num: 2
+1 98 86 165 211 highfive
+2 156 85 224 203 highfive
+frame: 26    box_num: 2
+1 98 86 166 211 highfive
+2 157 84 224 203 highfive
+frame: 27    box_num: 2
+1 97 86 166 211 highfive
+2 157 84 223 203 highfive
+frame: 28    box_num: 2
+1 97 86 166 211 highfive
+2 157 84 223 203 highfive
+frame: 29    box_num: 2
+1 97 87 166 212 highfive
+2 157 85 223 203 highfive
+frame: 30    box_num: 2
+1 96 87 166 212 highfive
+2 157 85 223 203 highfive
+frame: 31    box_num: 2
+1 96 88 167 212 highfive
+2 157 86 223 203 highfive
+frame: 32    box_num: 2
+1 96 88 167 213 highfive
+2 157 86 223 203 highfive
+frame: 33    box_num: 2
+1 95 89 167 213 highfive
+2 157 87 223 203 highfive
+frame: 34    box_num: 2
+1 95 89 167 213 highfive
+2 157 87 223 203 highfive
+frame: 35    box_num: 2
+1 95 90 168 214 highfive
+2 157 88 223 203 highfive
+frame: 36    box_num: 2
+1 95 90 166 213 highfive
+2 157 89 222 202 highfive
+frame: 37    box_num: 2
+1 95 90 164 213 highfive
+2 158 90 222 202 highfive
+frame: 38    box_num: 2
+1 95 90 162 213 highfive
+2 159 91 222 202 highfive
+frame: 39    box_num: 2
+1 95 90 160 213 highfive
+2 159 92 222 202 highfive
+frame: 40    box_num: 2
+1 95 90 158 213 highfive
+2 160 93 222 202 highfive
+frame: 41    box_num: 2
+1 95 90 156 213 highfive
+2 161 94 222 202 highfive
+frame: 42    box_num: 2
+1 94 90 155 213 no_action
+2 161 94 222 201 no_action
+frame: 43    box_num: 2
+1 94 90 155 213 no_action
+2 161 94 222 201 no_action
+frame: 44    box_num: 2
+1 93 90 154 213 no_action
+2 161 94 222 201 no_action
+frame: 45    box_num: 2
+1 93 91 154 214 no_action
+2 162 94 222 201 no_action
+frame: 46    box_num: 2
+1 92 91 153 214 no_action
+2 162 94 222 201 no_action
+frame: 47    box_num: 2
+1 92 91 153 214 no_action
+2 162 94 222 201 no_action
+frame: 48    box_num: 2
+1 91 91 152 214 no_action
+2 162 94 222 201 no_action
+frame: 49    box_num: 2
+1 91 92 152 215 no_action
+2 163 94 222 201 no_action
+frame: 50    box_num: 2
+1 91 92 152 215 no_action
+2 163 94 222 201 no_action
+frame: 51    box_num: 2
+1 91 92 152 215 no_action
+2 163 94 222 201 no_action
+frame: 52    box_num: 2
+1 91 92 152 215 no_action
+2 163 94 222 201 no_action

@@ -1,0 +1,141 @@
+#num_frames: 35
+#frame:     0     #num_bbxs:     3
+0   151   115   88    no_interaction      frontal_right       
+1   280   140   88    no_interaction      frontal_right       
+2   424   38    84    no_interaction      frontal_left        
+#frame: 1         #num_bbxs: 3    
+0   151   115   88    no_interaction      frontal_right       
+1   280   140   88    no_interaction      frontal_right       
+2   424   39    84    no_interaction      frontal_left        
+#frame: 2         #num_bbxs: 3    
+0   150   116   88    no_interaction      frontal_right       
+1   279   140   88    no_interaction      frontal_right       
+2   425   40    84    no_interaction      frontal_left        
+#frame: 3         #num_bbxs: 3    
+0   150   118   88    no_interaction      frontal_right       
+1   279   139   88    no_interaction      frontal_right       
+2   426   42    84    no_interaction      frontal_left        
+#frame: 4         #num_bbxs: 3    
+0   150   121   88    no_interaction      profile_right       
+1   279   138   88    no_interaction      frontal_right       
+2   426   43    84    no_interaction      frontal_left        
+#frame: 5         #num_bbxs: 3    
+0   150   123   88    no_interaction      profile_right       
+1   278   137   88    no_interaction      frontal_right       
+2   425   44    84    no_interaction      frontal_left        
+#frame: 6         #num_bbxs: 3    
+0   148   124   88    no_interaction      profile_right       
+1   278   136   88    no_interaction      frontal_right       
+2   425   43    84    no_interaction      frontal_left        
+#frame: 7         #num_bbxs: 3    
+0   146   125   88    no_interaction      profile_right       
+1   277   136   88    no_interaction      frontal_right       
+2   424   43    84    no_interaction      frontal_left        
+#frame: 8         #num_bbxs: 3    
+0   144   124   88    no_interaction      profile_right       
+1   277   134   88    no_interaction      frontal_right       
+2   422   44    84    no_interaction      frontal_left        
+#frame: 9         #num_bbxs: 3    
+0   143   123   88    no_interaction      profile_right       
+1   278   131   88    no_interaction      frontal_right       
+2   420   45    84    no_interaction      frontal_left        
+#frame: 10        #num_bbxs: 3    
+0   142   122   88    no_interaction      profile_right       
+1   278   129   88    no_interaction      profile_right       
+2   418   46    84    no_interaction      frontal_left        
+#frame: 11        #num_bbxs: 3    
+0   142   121   88    no_interaction      profile_right       
+1   279   127   88    no_interaction      profile_right       
+2   416   48    84    no_interaction      frontal_left        
+#frame: 12        #num_bbxs: 3    
+0   141   120   88    no_interaction      profile_right       
+1   279   126   88    no_interaction      profile_right       
+2   412   50    84    no_interaction      frontal_left        
+#frame: 13        #num_bbxs: 3         #interacting: 1 - 2
+0   141   119   88    no_interaction      profile_right       
+1   279   125   88    hand_shake          profile_right       
+2   409   52    84    hand_shake          frontal_left        
+#frame: 14        #num_bbxs: 3         #interacting: 1 - 2
+0   141   119   88    no_interaction      profile_right       
+1   279   124   88    hand_shake          profile_right       
+2   404   53    84    hand_shake          frontal_left        
+#frame: 15        #num_bbxs: 3         #interacting: 1 - 2
+0   140   119   88    no_interaction      profile_right       
+1   279   123   88    hand_shake          profile_right       
+2   399   54    84    hand_shake          frontal_left        
+#frame: 16        #num_bbxs: 3         #interacting: 1 - 2
+0   140   119   88    no_interaction      profile_right       
+1   279   124   88    hand_shake          profile_right       
+2   394   55    84    hand_shake          frontal_left        
+#frame: 17        #num_bbxs: 3         #interacting: 1 - 2
+0   141   119   88    no_interaction      profile_right       
+1   279   124   88    hand_shake          profile_right       
+2   390   55    84    hand_shake          frontal_left        
+#frame: 18        #num_bbxs: 3         #interacting: 1 - 2
+0   141   119   88    no_interaction      profile_right       
+1   278   124   88    hand_shake          profile_right       
+2   385   56    84    hand_shake          frontal_left        
+#frame: 19        #num_bbxs: 3         #interacting: 1 - 2
+0   141   119   88    no_interaction      profile_right       
+1   276   125   88    hand_shake          profile_right       
+2   380   58    84    hand_shake          frontal_left        
+#frame: 20        #num_bbxs: 3         #interacting: 1 - 2
+0   141   118   88    no_interaction      profile_right       
+1   274   126   88    hand_shake          profile_right       
+2   376   59    84    hand_shake          frontal_left        
+#frame: 21        #num_bbxs: 3         #interacting: 1 - 2
+0   140   118   88    no_interaction      profile_right       
+1   273   126   88    hand_shake          profile_right       
+2   372   60    84    hand_shake          frontal_left        
+#frame: 22        #num_bbxs: 3         #interacting: 1 - 2
+0   139   117   87    no_interaction      profile_right       
+1   271   127   87    hand_shake          profile_right       
+2   368   62    84    hand_shake          frontal_left        
+#frame: 23        #num_bbxs: 3         #interacting: 1 - 2
+0   139   118   85    no_interaction      profile_right       
+1   271   127   85    hand_shake          profile_right       
+2   365   63    84    hand_shake          frontal_left        
+#frame: 24        #num_bbxs: 3         #interacting: 1 - 2
+0   139   118   84    no_interaction      profile_right       
+1   270   127   84    hand_shake          profile_right       
+2   362   63    84    hand_shake          frontal_left        
+#frame: 25        #num_bbxs: 3         #interacting: 1 - 2
+0   138   119   84    no_interaction      profile_right       
+1   269   127   84    hand_shake          profile_right       
+2   359   63    84    hand_shake          frontal_left        
+#frame: 26        #num_bbxs: 3         #interacting: 1 - 2
+0   137   119   84    no_interaction      profile_right       
+1   268   127   84    hand_shake          profile_right       
+2   356   62    84    hand_shake          frontal_left        
+#frame: 27        #num_bbxs: 3         #interacting: 1 - 2
+0   136   119   84    no_interaction      profile_right       
+1   266   127   84    hand_shake          profile_right       
+2   354   62    84    hand_shake          frontal_left        
+#frame: 28        #num_bbxs: 3         #interacting: 1 - 2
+0   135   119   84    no_interaction      profile_right       
+1   265   128   84    hand_shake          profile_right       
+2   353   62    84    hand_shake          frontal_left        
+#frame: 29        #num_bbxs: 3         #interacting: 1 - 2
+0   134   119   84    no_interaction      profile_right       
+1   265   128   84    hand_shake          frontal_right       
+2   352   62    84    hand_shake          frontal_left        
+#frame: 30        #num_bbxs: 3         #interacting: 1 - 2
+0   134   118   84    no_interaction      profile_right       
+1   266   128   84    hand_shake          frontal_right       
+2   351   62    84    hand_shake          frontal_left        
+#frame: 31        #num_bbxs: 3         #interacting: 1 - 2
+0   133   119   84    no_interaction      profile_right       
+1   267   128   84    hand_shake          frontal_right       
+2   350   62    84    hand_shake          frontal_left        
+#frame: 32        #num_bbxs: 3         #interacting: 1 - 2
+0   132   119   84    no_interaction      profile_right       
+1   268   128   84    hand_shake          frontal_right       
+2   350   62    84    hand_shake          frontal_left        
+#frame: 33        #num_bbxs: 3         #interacting: 1 - 2
+0   132   120   84    no_interaction      profile_right       
+1   269   128   84    hand_shake          frontal_right       
+2   350   62    84    hand_shake          frontal_left        
+#frame: 34        #num_bbxs: 3         #interacting: 1 - 2
+0   131   120   84    no_interaction      profile_right       
+1   269   128   84    hand_shake          frontal_right       
+2   350   62    84    hand_shake          frontal_left        

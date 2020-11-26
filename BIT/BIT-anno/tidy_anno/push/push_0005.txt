@@ -1,0 +1,255 @@
+frame: 1    box_num: 2
+1 94 93 149 215 no_action
+2 163 97 225 205 no_action
+frame: 2    box_num: 2
+1 94 93 149 215 no_action
+2 163 97 225 205 no_action
+frame: 3    box_num: 2
+1 94 92 149 214 no_action
+2 163 97 225 205 no_action
+frame: 4    box_num: 2
+1 94 92 150 214 no_action
+2 163 97 225 205 no_action
+frame: 5    box_num: 2
+1 94 92 150 214 no_action
+2 163 97 225 205 no_action
+frame: 6    box_num: 2
+1 94 92 151 214 no_action
+2 163 97 225 205 no_action
+frame: 7    box_num: 2
+1 94 92 151 214 no_action
+2 163 97 225 205 no_action
+frame: 8    box_num: 2
+1 94 92 152 214 no_action
+2 163 97 225 205 no_action
+frame: 9    box_num: 2
+1 95 92 152 214 no_action
+2 163 97 225 205 no_action
+frame: 10    box_num: 2
+1 95 92 153 213 no_action
+2 163 97 225 205 no_action
+frame: 11    box_num: 2
+1 95 92 153 213 no_action
+2 163 97 225 205 no_action
+frame: 12    box_num: 2
+1 95 92 154 213 no_action
+2 163 97 225 205 no_action
+frame: 13    box_num: 2
+1 95 91 154 213 no_action
+2 163 97 225 205 no_action
+frame: 14    box_num: 2
+1 95 91 155 213 no_action
+2 163 97 225 205 no_action
+frame: 15    box_num: 2
+1 95 91 155 213 no_action
+2 163 97 225 205 no_action
+frame: 16    box_num: 2
+1 96 91 156 213 no_action
+2 163 97 225 205 no_action
+frame: 17    box_num: 2
+1 96 91 156 212 no_action
+2 163 97 225 205 no_action
+frame: 18    box_num: 2
+1 96 91 157 212 no_action
+2 163 97 225 205 no_action
+frame: 19    box_num: 2
+1 96 91 157 212 push
+2 163 97 225 205 be_pushed
+frame: 20    box_num: 2
+1 96 91 158 212 push
+2 163 97 225 205 be_pushed
+frame: 21    box_num: 2
+1 96 91 158 212 push
+2 164 97 226 205 be_pushed
+frame: 22    box_num: 2
+1 96 91 159 212 push
+2 164 97 226 205 be_pushed
+frame: 23    box_num: 2
+1 97 91 160 212 push
+2 164 97 226 205 be_pushed
+frame: 24    box_num: 2
+1 97 91 161 211 push
+2 164 97 226 205 be_pushed
+frame: 25    box_num: 2
+1 97 91 163 211 push
+2 164 97 226 205 be_pushed
+frame: 26    box_num: 2
+1 97 91 164 211 push
+2 164 97 226 205 be_pushed
+frame: 27    box_num: 2
+1 97 91 166 211 push
+2 164 97 226 205 be_pushed
+frame: 28    box_num: 2
+1 97 91 167 211 push
+2 164 97 226 205 be_pushed
+frame: 29    box_num: 2
+1 97 91 169 211 push
+2 164 97 226 205 be_pushed
+frame: 30    box_num: 2
+1 97 91 170 211 push
+2 164 97 226 205 be_pushed
+frame: 31    box_num: 2
+1 97 91 172 211 push
+2 164 97 226 205 be_pushed
+frame: 32    box_num: 2
+1 97 91 173 211 push
+2 164 97 226 205 be_pushed
+frame: 33    box_num: 2
+1 97 91 175 211 push
+2 164 97 226 205 be_pushed
+frame: 34    box_num: 2
+1 97 91 176 211 push
+2 164 97 226 205 be_pushed
+frame: 35    box_num: 2
+1 97 91 178 211 push
+2 164 97 226 205 be_pushed
+frame: 36    box_num: 2
+1 97 91 180 211 push
+2 164 97 226 205 be_pushed
+frame: 37    box_num: 2
+1 97 91 180 210 push
+2 164 97 226 205 be_pushed
+frame: 38    box_num: 2
+1 97 91 180 210 push
+2 164 97 226 205 be_pushed
+frame: 39    box_num: 2
+1 97 91 181 210 push
+2 165 97 227 205 be_pushed
+frame: 40    box_num: 2
+1 97 91 181 210 push
+2 165 97 227 205 be_pushed
+frame: 41    box_num: 2
+1 97 91 182 210 push
+2 165 97 227 205 be_pushed
+frame: 42    box_num: 2
+1 97 91 182 210 push
+2 165 97 227 205 be_pushed
+frame: 43    box_num: 2
+1 97 91 183 210 push
+2 165 97 227 205 be_pushed
+frame: 44    box_num: 2
+1 97 91 183 210 push
+2 165 97 227 205 be_pushed
+frame: 45    box_num: 2
+1 97 91 184 210 push
+2 165 97 227 205 be_pushed
+frame: 46    box_num: 2
+1 97 91 183 210 push
+2 165 97 227 205 be_pushed
+frame: 47    box_num: 2
+1 97 91 182 210 push
+2 165 97 227 205 be_pushed
+frame: 48    box_num: 2
+1 97 91 181 210 push
+2 165 97 227 205 be_pushed
+frame: 49    box_num: 2
+1 97 91 180 210 push
+2 165 97 227 205 be_pushed
+frame: 50    box_num: 2
+1 97 91 180 210 push
+2 165 97 227 205 be_pushed
+frame: 51    box_num: 2
+1 97 91 179 210 push
+2 165 97 227 205 be_pushed
+frame: 52    box_num: 2
+1 97 91 178 210 push
+2 165 97 227 205 be_pushed
+frame: 53    box_num: 2
+1 97 91 177 210 push
+2 165 97 227 205 be_pushed
+frame: 54    box_num: 2
+1 97 91 177 210 push
+2 165 97 227 205 be_pushed
+frame: 55    box_num: 2
+1 97 91 176 210 push
+2 165 97 227 205 be_pushed
+frame: 56    box_num: 2
+1 97 91 175 210 push
+2 165 97 227 205 be_pushed
+frame: 57    box_num: 2
+1 97 91 174 210 push
+2 166 97 228 205 be_pushed
+frame: 58    box_num: 2
+1 97 91 174 210 push
+2 166 97 228 205 be_pushed
+frame: 59    box_num: 2
+1 97 91 173 210 push
+2 166 97 228 205 be_pushed
+frame: 60    box_num: 2
+1 97 92 172 210 push
+2 166 97 228 205 be_pushed
+frame: 61    box_num: 2
+1 97 92 171 210 push
+2 166 97 228 205 be_pushed
+frame: 62    box_num: 2
+1 97 92 170 210 push
+2 166 97 228 205 be_pushed
+frame: 63    box_num: 2
+1 97 92 170 210 push
+2 166 97 228 205 be_pushed
+frame: 64    box_num: 2
+1 97 92 169 210 push
+2 166 97 228 205 be_pushed
+frame: 65    box_num: 2
+1 97 92 168 210 push
+2 166 97 228 205 be_pushed
+frame: 66    box_num: 2
+1 97 92 167 210 push
+2 166 97 228 205 be_pushed
+frame: 67    box_num: 2
+1 97 92 167 210 push
+2 166 97 228 205 be_pushed
+frame: 68    box_num: 2
+1 97 92 166 210 push
+2 166 97 228 205 be_pushed
+frame: 69    box_num: 2
+1 97 92 165 210 push
+2 166 97 228 205 be_pushed
+frame: 70    box_num: 2
+1 97 92 164 210 push
+2 166 97 228 205 be_pushed
+frame: 71    box_num: 2
+1 97 92 164 210 push
+2 166 97 228 205 be_pushed
+frame: 72    box_num: 2
+1 97 92 163 210 push
+2 166 97 228 205 be_pushed
+frame: 73    box_num: 2
+1 97 92 162 210 push
+2 166 97 228 205 be_pushed
+frame: 74    box_num: 2
+1 97 92 161 210 push
+2 166 97 228 205 be_pushed
+frame: 75    box_num: 2
+1 98 93 161 211 push
+2 167 97 229 205 be_pushed
+frame: 76    box_num: 2
+1 97 92 159 211 push
+2 167 97 229 205 be_pushed
+frame: 77    box_num: 2
+1 96 92 158 211 push
+2 167 97 229 205 be_pushed
+frame: 78    box_num: 2
+1 96 92 157 211 no_action
+2 167 97 229 205 no_action
+frame: 79    box_num: 2
+1 95 92 156 211 no_action
+2 167 97 229 205 no_action
+frame: 80    box_num: 2
+1 95 92 155 211 no_action
+2 167 97 229 205 no_action
+frame: 81    box_num: 2
+1 94 92 154 211 no_action
+2 167 97 229 205 no_action
+frame: 82    box_num: 2
+1 94 92 153 211 no_action
+2 167 97 229 205 no_action
+frame: 83    box_num: 2
+1 93 92 152 211 no_action
+2 167 97 229 205 no_action
+frame: 84    box_num: 2
+1 93 92 151 212 no_action
+2 167 97 229 205 no_action
+frame: 85    box_num: 2
+1 93 92 151 212 no_action
+2 167 97 229 205 no_action

@@ -1,0 +1,108 @@
+#num_frames: 37
+#frame:     0     #num_bbxs:     1
+0   196   41    64    no_interaction      frontal_right       
+#frame: 1         #num_bbxs: 1    
+0   196   41    64    no_interaction      frontal_right       
+#frame: 2         #num_bbxs: 1    
+0   196   41    64    no_interaction      frontal_right       
+#frame: 3         #num_bbxs: 1    
+0   198   40    64    no_interaction      frontal_right       
+#frame: 4         #num_bbxs: 2    
+0   200   40    64    no_interaction      frontal_right       
+1   427   52    80    no_interaction      profile_left        
+#frame: 5         #num_bbxs: 2    
+0   203   40    64    no_interaction      frontal_right       
+1   423   52    80    no_interaction      profile_left        
+#frame: 6         #num_bbxs: 2    
+0   204   40    64    no_interaction      frontal_right       
+1   415   53    80    no_interaction      profile_left        
+#frame: 7         #num_bbxs: 2    
+0   205   42    64    no_interaction      frontal_right       
+1   406   53    80    no_interaction      profile_left        
+#frame: 8         #num_bbxs: 2    
+0   207   45    64    no_interaction      frontal_right       
+1   398   53    80    no_interaction      profile_left        
+#frame: 9         #num_bbxs: 2    
+0   209   48    64    no_interaction      frontal_right       
+1   391   54    78    no_interaction      profile_left        
+#frame: 10        #num_bbxs: 2    
+0   210   50    64    no_interaction      frontal_right       
+1   383   54    77    no_interaction      profile_left        
+#frame: 11        #num_bbxs: 2    
+0   211   51    64    no_interaction      frontal_right       
+1   375   54    75    no_interaction      profile_left        
+#frame: 12        #num_bbxs: 2    
+0   211   51    64    no_interaction      frontal_right       
+1   367   54    75    no_interaction      profile_left        
+#frame: 13        #num_bbxs: 2         #interacting: 0 - 1
+0   211   51    64    high_five           frontal_right       
+1   359   54    75    high_five           profile_left        
+#frame: 14        #num_bbxs: 2         #interacting: 0 - 1
+0   210   51    64    high_five           frontal_right       
+1   354   55    73    high_five           profile_left        
+#frame: 15        #num_bbxs: 2         #interacting: 0 - 1
+0   210   50    64    high_five           frontal_right       
+1   349   57    72    high_five           profile_left        
+#frame: 16        #num_bbxs: 2         #interacting: 0 - 1
+0   209   50    64    high_five           frontal_right       
+1   344   59    70    high_five           backwards           
+#frame: 17        #num_bbxs: 2         #interacting: 0 - 1
+0   209   50    64    high_five           frontal_right       
+1   339   59    70    high_five           backwards           
+#frame: 19        #num_bbxs: 2         #interacting: 2 - 3
+2   176   64    160   high_five           frontal_right       
+3   446   62    160   high_five           backwards           
+#frame: 20        #num_bbxs: 2         #interacting: 2 - 3
+2   176   64    160   high_five           frontal_right       
+3   447   62    160   high_five           backwards           
+#frame: 21        #num_bbxs: 2         #interacting: 2 - 3
+2   177   64    160   high_five           frontal_right       
+3   448   63    160   high_five           backwards           
+#frame: 22        #num_bbxs: 2         #interacting: 2 - 3
+2   177   63    160   high_five           frontal_right       
+3   449   63    160   high_five           backwards           
+#frame: 23        #num_bbxs: 2         #interacting: 2 - 3
+2   177   61    160   high_five           frontal_right       
+3   450   64    160   high_five           backwards           
+#frame: 24        #num_bbxs: 2         #interacting: 2 - 3
+2   176   58    160   high_five           frontal_left        
+3   450   66    160   high_five           backwards           
+#frame: 25        #num_bbxs: 2         #interacting: 2 - 3
+2   175   55    160   high_five           frontal_left        
+3   450   69    160   high_five           backwards           
+#frame: 26        #num_bbxs: 2         #interacting: 2 - 3
+2   174   52    160   high_five           frontal_left        
+3   451   72    160   high_five           backwards           
+#frame: 27        #num_bbxs: 2    
+2   173   50    160   no_interaction      frontal_left        
+3   451   75    160   no_interaction      backwards           
+#frame: 28        #num_bbxs: 2    
+2   172   47    160   no_interaction      frontal_left        
+3   451   76    160   no_interaction      backwards           
+#frame: 29        #num_bbxs: 2    
+2   171   45    160   no_interaction      frontal_left        
+3   452   77    160   no_interaction      backwards           
+#frame: 30        #num_bbxs: 2    
+2   170   43    160   no_interaction      frontal_left        
+3   452   77    160   no_interaction      backwards           
+#frame: 31        #num_bbxs: 2    
+2   169   42    160   no_interaction      frontal_left        
+3   453   78    160   no_interaction      backwards           
+#frame: 32        #num_bbxs: 2    
+2   168   41    160   no_interaction      frontal_left        
+3   454   79    160   no_interaction      backwards           
+#frame: 33        #num_bbxs: 2    
+2   167   41    160   no_interaction      frontal_left        
+3   455   79    160   no_interaction      backwards           
+#frame: 34        #num_bbxs: 2    
+2   166   42    160   no_interaction      frontal_left        
+3   457   80    160   no_interaction      backwards           
+#frame: 35        #num_bbxs: 2    
+2   165   43    160   no_interaction      frontal_left        
+3   459   82    160   no_interaction      backwards           
+#frame: 36        #num_bbxs: 2    
+2   165   45    160   no_interaction      frontal_left        
+3   461   83    160   no_interaction      backwards           
+#frame: 37        #num_bbxs: 2    
+2   164   46    160   no_interaction      frontal_left        
+3   462   83    160   no_interaction      backwards           
